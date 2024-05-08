@@ -1,10 +1,10 @@
 package com.example.combinedatasets.domain;
 
-import lombok.Builder;
 import lombok.Data;
+import lombok.experimental.SuperBuilder;
 
 @Data
-@Builder
+@SuperBuilder
 public class CombinedResponse extends AtmCs {
     private String temperature;
     private String humidity;

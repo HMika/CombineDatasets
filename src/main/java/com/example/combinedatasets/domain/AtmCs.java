@@ -1,12 +1,12 @@
 package com.example.combinedatasets.domain;
 
-import lombok.Builder;
 import lombok.Data;
+import lombok.experimental.SuperBuilder;
 
 import java.time.OffsetDateTime;
 
 @Data
-@Builder
+@SuperBuilder
 public class AtmCs {
     private String id;
     private Location location;
