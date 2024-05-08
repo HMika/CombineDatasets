@@ -1,5 +1,8 @@
 package com.example.combinedatasets.integration;
 
+import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;
@@ -43,4 +46,15 @@ public class WeatherApiInterfaceImpl implements WeatherApiInterface {
 
     }
 
+    @Override
+    public String getAtt(ResponseEntity<String> response, String param) throws JsonProcessingException {
+        String body = response.getBody();
+        ObjectMapper mapper = new ObjectMapper();
+
+        JsonNode root = mapper.readTree(body);
+
+        JsonNode m =  root.path("main");
+
+        return m.get(param).asText();
+    }
 }
