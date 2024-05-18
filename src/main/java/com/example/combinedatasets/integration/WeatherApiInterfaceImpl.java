@@ -1,16 +1,15 @@
 package com.example.combinedatasets.integration;
 
-import com.fasterxml.jackson.core.JsonProcessingException;
-import com.fasterxml.jackson.databind.JsonNode;
-import com.fasterxml.jackson.databind.ObjectMapper;
+import com.example.combinedatasets.domain.WeatherResponse;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.http.HttpEntity;
-import org.springframework.http.HttpHeaders;
-import org.springframework.http.HttpMethod;
-import org.springframework.http.ResponseEntity;
+import org.springframework.http.*;
 import org.springframework.stereotype.Component;
+import org.springframework.web.client.HttpClientErrorException;
+import org.springframework.web.client.HttpServerErrorException;
 import org.springframework.web.client.RestTemplate;
 import org.springframework.web.util.UriComponentsBuilder;
+
+import static org.springframework.http.HttpStatus.*;
 
 @Component
 public class WeatherApiInterfaceImpl implements WeatherApiInterface {
@@ -26,7 +25,7 @@ public class WeatherApiInterfaceImpl implements WeatherApiInterface {
     }
 
     @Override
-    public ResponseEntity<String> callExternalWeatherApi(String lat, String lng) {
+    public ResponseEntity<WeatherResponse> callExternalWeatherApi(String lat, String lng) {
         UriComponentsBuilder uriBuilder = UriComponentsBuilder
                 .fromHttpUrl(url)
                 .queryParam("lat", lat)
@@ -36,25 +35,28 @@ public class WeatherApiInterfaceImpl implements WeatherApiInterface {
 
         HttpEntity<String> entity = new HttpEntity<>(new HttpHeaders());
 
-        ResponseEntity<String> response = restTemplate.exchange(
-                uriBuilder.toUriString(),
-                HttpMethod.GET,
-                entity,
-                String.class
-        );
-        return response;
-
-    }
-
-    @Override
-    public String getAtt(ResponseEntity<String> response, String param) throws JsonProcessingException {
-        String body = response.getBody();
-        ObjectMapper mapper = new ObjectMapper();
-
-        JsonNode root = mapper.readTree(body);
-
-        JsonNode m =  root.path("main");
-
-        return m.get(param).asText();
+        try {
+            return restTemplate.exchange(
+                    uriBuilder.toUriString(),
+                    HttpMethod.GET,
+                    entity,
+                    WeatherResponse.class
+            );
+        }
+        catch (HttpClientErrorException e) {
+            HttpStatusCode statusCode = e.getStatusCode();
+            if (statusCode.equals(UNAUTHORIZED)) {
+                return ResponseEntity.status(401).body(null);
+            } else if (statusCode.equals(NOT_FOUND)) {
+                return ResponseEntity.status(404).body(null);
+            } else if (statusCode.equals(TOO_MANY_REQUESTS)) {
+                return ResponseEntity.status(429).body(null);
+            }
+            return ResponseEntity.status(e.getStatusCode()).body(null);
+        } catch (HttpServerErrorException e) {
+            return ResponseEntity.status(e.getStatusCode()).body(null);
+        } catch (Exception e) {
+            return ResponseEntity.status(500).body(null);
+        }
     }
 }
