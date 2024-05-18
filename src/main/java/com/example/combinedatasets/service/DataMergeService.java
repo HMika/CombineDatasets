@@ -8,6 +8,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
+import java.util.concurrent.ExecutionException;
 
 @Service
 public class DataMergeService {
@@ -21,7 +22,7 @@ public class DataMergeService {
         this.combineData = combineData;
     }
 
-    public List<CombinedResponse> getCombinedData() throws JsonProcessingException {
+    public List<CombinedResponse> getCombinedData() throws JsonProcessingException, ExecutionException, InterruptedException {
         ResponseEntity<String> response = atmApiInterface.callSporitelnaAtmsList();
         List<AtmCs> atms = deserializeAtmService.deserializeAtmData(response);
         return combineData.combineDatasets(atms);
