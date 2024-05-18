@@ -2,13 +2,14 @@ package com.example.combinedatasets.service;
 
 import com.example.combinedatasets.domain.AtmCs;
 import com.example.combinedatasets.domain.CombinedResponse;
+import com.example.combinedatasets.domain.WeatherResponse;
 import com.example.combinedatasets.integration.WeatherApiInterfaceImpl;
-import com.fasterxml.jackson.core.JsonProcessingException;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Objects;
 import java.util.concurrent.*;
 
 @Service
@@ -39,13 +40,13 @@ public class CombineDataService {
         return combinedResponseObjectsList;
     }
 
-    private List<CombinedResponse> processAtmBatch(List<AtmCs> atmBatch) throws JsonProcessingException {
+    private List<CombinedResponse> processAtmBatch(List<AtmCs> atmBatch) {
         List<CombinedResponse> combinedResponses = new ArrayList<>();
         for (AtmCs atm : atmBatch) {
             String lat = atm.getLocation().getLat();
             String lng = atm.getLocation().getLng();
 
-            ResponseEntity<String> weatherInfo = weatherApiInterface.callExternalWeatherApi(lat, lng);
+            ResponseEntity<WeatherResponse> weatherInfo = weatherApiInterface.callExternalWeatherApi(lat, lng);
 
             CombinedResponse combined = CombinedResponse.builder()
                     .id(atm.getId())
@@ -62,8 +63,8 @@ public class CombineDataService {
                     .atmNumber(atm.getAtmNumber())
                     .cityPart(atm.getCityPart())
                     .installDate(atm.getInstallDate())
-                    .temperature(weatherApiInterface.getAtt(weatherInfo, "temp"))
-                    .humidity(weatherApiInterface.getAtt(weatherInfo, "humidity"))
+                    .temperature(String.valueOf(Objects.requireNonNull(weatherInfo.getBody()).getMain().getTemp()))
+                    .humidity(String.valueOf(weatherInfo.getBody().getMain().getHumidity()))
                     .build();
 
             combinedResponses.add(combined);
