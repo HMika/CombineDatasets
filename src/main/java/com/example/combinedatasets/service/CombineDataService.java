@@ -9,33 +9,43 @@ import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.concurrent.*;
 
 @Service
 public class CombineDataService {
     private final WeatherApiInterfaceImpl weatherApiInterface;
+    private static final int THREAD_COUNT = 100;
 
     public CombineDataService(WeatherApiInterfaceImpl weatherApiInterface) {
         this.weatherApiInterface = weatherApiInterface;
     }
 
-    public List<CombinedResponse> combineDatasets(List<AtmCs> atms) throws JsonProcessingException {
+    public List<CombinedResponse> combineDatasets(List<AtmCs> atms) throws InterruptedException, ExecutionException {
+        ExecutorService executorService = Executors.newFixedThreadPool(THREAD_COUNT);
+        List<Future<List<CombinedResponse>>> futures = new ArrayList<>();
+
+        for (int i = 0; i < atms.size(); i += THREAD_COUNT) {
+            int finalI = i;
+            futures.add(executorService.submit(() -> processAtmBatch(atms.subList(finalI, Math.min(finalI + THREAD_COUNT, atms.size())))));
+        }
+
+        executorService.shutdown();
 
         List<CombinedResponse> combinedResponseObjectsList = new ArrayList<>();
+        for (Future<List<CombinedResponse>> future : futures) {
+            combinedResponseObjectsList.addAll(future.get());
+        }
 
-        int count = 0;
-        int limitter = 6;
+        return combinedResponseObjectsList;
+    }
 
-        String lat = "";
-        String lng = "";
+    private List<CombinedResponse> processAtmBatch(List<AtmCs> atmBatch) throws JsonProcessingException {
+        List<CombinedResponse> combinedResponses = new ArrayList<>();
+        for (AtmCs atm : atmBatch) {
+            String lat = atm.getLocation().getLat();
+            String lng = atm.getLocation().getLng();
 
-        for (AtmCs atm : atms) {
-            if (count >= limitter) break;
-            count++;
-
-            lat = atm.getLocation().getLat();
-            lng = atm.getLocation().getLng();
-
-            ResponseEntity<String> weatherInfo =  weatherApiInterface.callExternalWeatherApi(lat, lng);
+            ResponseEntity<String> weatherInfo = weatherApiInterface.callExternalWeatherApi(lat, lng);
 
             CombinedResponse combined = CombinedResponse.builder()
                     .id(atm.getId())
@@ -56,9 +66,9 @@ public class CombineDataService {
                     .humidity(weatherApiInterface.getAtt(weatherInfo, "humidity"))
                     .build();
 
-            combinedResponseObjectsList.add(combined);
+            combinedResponses.add(combined);
         }
-        return combinedResponseObjectsList;
+        return combinedResponses;
     }
 
 }

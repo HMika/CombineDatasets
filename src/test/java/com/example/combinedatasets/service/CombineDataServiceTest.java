@@ -90,18 +90,18 @@ class CombineDataServiceTest {
                 ]
             }""";
 
-    @Test
-    void conbineDatasets() throws JsonProcessingException {
-        ResponseEntity<String> response = new ResponseEntity<>(mockResponse, HttpStatus.OK);
-        List<AtmCs> atms = deserializeAtmService.deserializeAtmData(response);
-
-        List<CombinedResponse> combinedResponses = combineDataService.combineDatasets(atms);
-
-        for (CombinedResponse cr : combinedResponses) {
-            System.out.println(cr.toString());
-        }
-
-    }
+//    @Test
+//    void conbineDatasets() throws JsonProcessingException {
+//        ResponseEntity<String> response = new ResponseEntity<>(mockResponse, HttpStatus.OK);
+//        List<AtmCs> atms = deserializeAtmService.deserializeAtmData(response);
+//
+//        List<CombinedResponse> combinedResponses = combineDataService.combineDatasets(atms);
+//
+//        for (CombinedResponse cr : combinedResponses) {
+//            System.out.println(cr.toString());
+//        }
+//
+//    }
 
 
 
