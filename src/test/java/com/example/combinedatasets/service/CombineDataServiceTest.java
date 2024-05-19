@@ -3,105 +3,99 @@ package com.example.combinedatasets.service;
 import com.example.combinedatasets.domain.AtmCs;
 import com.example.combinedatasets.domain.AtmResponse;
 import com.example.combinedatasets.domain.CombinedResponse;
-import com.fasterxml.jackson.core.JsonProcessingException;
+import com.example.combinedatasets.domain.WeatherResponse;
+import com.example.combinedatasets.integration.WeatherApiInterfaceImpl;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import org.springframework.beans.factory.annotation.Autowired;
+import org.mockito.Mock;
+import org.mockito.MockitoAnnotations;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 
+import java.io.File;
+import java.io.IOException;
+import java.time.OffsetDateTime;
 import java.util.List;
+import java.util.Objects;
+import java.util.concurrent.ExecutionException;
+import java.util.stream.Collectors;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertNotNull;
+import static org.mockito.ArgumentMatchers.anyString;
+import static org.mockito.Mockito.when;
+
 
 @SpringBootTest
 class CombineDataServiceTest {
+    @Mock
+    private WeatherApiInterfaceImpl weatherApiInterfaceImpl;
 
-    @Autowired
     private CombineDataService combineDataService;
 
-    @Autowired
-    private DeserializeAtmService deserializeAtmService;
+    @BeforeEach
+    public void setUp() {
+        MockitoAnnotations.openMocks(this);
+        combineDataService = new CombineDataService(weatherApiInterfaceImpl);
+    }
 
-    String mockResponse = """
-            {
-                "pageNumber": 0,
-                "pageCount": 1,
-                "pageSize": 311,
-                "totalItemCount": 311,
-                "items": [
-                    {
-                        "id": 225,
-                        "location": {
-                            "lat": 50.089688,
-                            "lng": 14.42289
-                        },
-                        "type": "ATM",
-                        "state": "OPEN",
-                        "name": "Česká spořitelna, a.s.",
-                        "address": "Dlouhá 743/9",
-                        "city": "Praha 1",
-                        "postCode": "11000",
-                        "country": "CZ",
-                        "region": "Hlavní město Praha",
-                        "bankCode": "0800",
-                        "accessType": "nepřetržitě",
-                        "atmNumber": "225",
-                        "cityPart": "Staré Město",
-                        "installDate": "1996-09-01T00:00+02:00"
-                    },
-                    {
-                                "id": 432,
-                                "location": {
-                                    "lat": 50.089688,
-                                    "lng": 14.42289
-                                },
-                                "type": "ATM",
-                                "state": "OPEN",
-                                "name": "Česká spořitelna, a.s.",
-                                "address": "Dlouhá 743/9",
-                                "city": "Praha 1",
-                                "postCode": "11000",
-                                "country": "CZ",
-                                "region": "Hlavní město Praha",
-                                "bankCode": "0800",
-                                "accessType": "nepřetržitě",
-                                "atmNumber": "432",
-                                "cityPart": "Staré Město",
-                                "installDate": "2018-07-09T00:00+02:00"
-                            },
-                            {
-                                "id": 180,
-                                "location": {
-                                    "lat": 50.088343,
-                                    "lng": 14.432813
-                                },
-                                "type": "ATM",
-                                "state": "OPEN",
-                                "name": "METRO nám. Republiky (B)",
-                                "address": "Havlíčkova 1028/5",
-                                "city": "Praha 1",
-                                "postCode": "11000",
-                                "country": "CZ",
-                                "region": "Hlavní město Praha",
-                                "bankCode": "0800",
-                                "accessType": "nepřetržitě",
-                                "atmNumber": "180",
-                                "cityPart": "Nové Město",
-                                "installDate": "1994-08-01T00:00+02:00"
-                            }
-                ]
-            }""";
+    @Test
+    void testCombineDataService() throws IOException, ExecutionException, InterruptedException {
+        File atmFile = new File(Objects.requireNonNull(getClass().getClassLoader().getResource("atm_response.json")).getFile());
+        ObjectMapper objectMapper = new ObjectMapper();
+        AtmResponse atmResponse = objectMapper.readValue(atmFile, AtmResponse.class);
 
-//    @Test
-//    void conbineDatasets() {
-//        ResponseEntity<AtmResponse> response = new ResponseEntity<>(mockResponse, HttpStatus.OK);
-//        List<AtmCs> atms = deserializeAtmService.deserializeAtmData(response);
-//
-//        List<CombinedResponse> combinedResponses = combineDataService.combineDatasets(atms);
-//
-//        for (CombinedResponse cr : combinedResponses) {
-//            System.out.println(cr.toString());
-//        }
-//
-//    }
+        List<AtmCs> atms = atmResponse.getItems().stream().map(item -> AtmCs.builder()
+                .id(item.getId())
+                .location(AtmCs.Location.builder()
+                        .lat(item.getLocation().getLat())
+                        .lng(item.getLocation().getLng())
+                        .build())
+                .type(item.getType())
+                .state(item.getState())
+                .name(item.getName())
+                .address(item.getAddress())
+                .city(item.getCity())
+                .postCode(item.getPostCode())
+                .country(item.getCountry())
+                .region(item.getRegion())
+                .bankCode(item.getBankCode())
+                .accessType(item.getAccessType())
+                .atmNumber(item.getAtmNumber())
+                .cityPart(item.getCityPart())
+                .installDate(OffsetDateTime.parse(item.getInstallDate()))
+                .build()).collect(Collectors.toList());
 
+        File weatherFile = new File(Objects.requireNonNull(getClass().getClassLoader().getResource("weather_response.json")).getFile());
+        WeatherResponse weatherResponse = objectMapper.readValue(weatherFile, WeatherResponse.class);
+
+        ResponseEntity<WeatherResponse> weatherResponseResponseEntity = new ResponseEntity<>(weatherResponse, HttpStatus.OK);
+
+        when(weatherApiInterfaceImpl.callExternalWeatherApi(anyString(), anyString()))
+                .thenReturn(weatherResponseResponseEntity);
+
+        List<CombinedResponse> combinedResponses = combineDataService.combineDatasets(atms);
+
+        assertNotNull(combinedResponses);
+        assertEquals(311, combinedResponses.size());
+        CombinedResponse combinedResponse = combinedResponses.get(0);
+        assertEquals(225, combinedResponse.getId());
+        assertEquals("Česká spořitelna, a.s.", combinedResponse.getName());
+        assertEquals("ATM", combinedResponse.getType());
+        assertEquals("Dlouhá 743/9", combinedResponse.getAddress());
+        assertEquals("Praha 1", combinedResponse.getCity());
+        assertEquals("11000", combinedResponse.getPostCode());
+        assertEquals("CZ", combinedResponse.getCountry());
+        assertEquals("Hlavní město Praha", combinedResponse.getRegion());
+        assertEquals("0800", combinedResponse.getBankCode());
+        assertEquals("nepřetržitě", combinedResponse.getAccessType());
+        assertEquals("225", combinedResponse.getAtmNumber());
+        assertEquals("Staré Město", combinedResponse.getCityPart());
+        assertEquals("15.95", combinedResponse.getTemperature());
+        assertEquals("71", combinedResponse.getHumidity());
+        assertEquals(50.089688, combinedResponse.getLocation().getLat());
+        assertEquals(14.42289, combinedResponse.getLocation().getLng());
+    }
 }
