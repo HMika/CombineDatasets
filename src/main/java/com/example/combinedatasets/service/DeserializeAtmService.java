@@ -1,56 +1,40 @@
 package com.example.combinedatasets.service;
 
 import com.example.combinedatasets.domain.AtmCs;
-import com.example.combinedatasets.domain.Location;
-import com.fasterxml.jackson.core.JsonProcessingException;
-import com.fasterxml.jackson.databind.JsonNode;
-import com.fasterxml.jackson.databind.ObjectMapper;
+import com.example.combinedatasets.domain.AtmResponse;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
 import java.time.OffsetDateTime;
-import java.util.ArrayList;
 import java.util.List;
-
+import java.util.Objects;
+import java.util.stream.Collectors;
 
 
 @Service
 public class DeserializeAtmService {
-    public List<AtmCs> deserializeAtmData(ResponseEntity<String> response) throws JsonProcessingException {
+    public List<AtmCs> deserializeAtmData(ResponseEntity<AtmResponse> response){
 
-        ObjectMapper mapper = new ObjectMapper();
-
-        JsonNode rootNode = mapper.readTree(response.getBody());
-
-        JsonNode items = rootNode.path("items");
-
-        List<AtmCs> atms = new ArrayList<>();
-
-        if (items.isArray()){
-            for (JsonNode item : items){
-                JsonNode locationNode = item.path("location");
-                Location location = new Location();
-                location.setLat(locationNode.path("lat").asText());
-                location.setLng(locationNode.path("lng").asText());
-                AtmCs atm = AtmCs.builder()
-                        .id(item.path("id").asText())
-                        .location(location)
-                        .name(item.path("name").asText())
-                        .address(item.path("address").asText())
-                        .city(item.path("city").asText())
-                        .type(item.path("type").asText())
-                        .postCode(item.path("postCode").asText())
-                        .country(item.path("country").asText())
-                        .region(item.path("region").asText())
-                        .bankCode(item.path("bankCode").asText())
-                        .accessType(item.path("accessType").asText())
-                        .atmNumber(item.path("atmNumber").asText())
-                        .cityPart(item.path("cityPart").asText())
-                        .installDate(item.path("installDate").asText().isEmpty() ? null : OffsetDateTime.parse(item.path("installDate").asText()))
-                        .build();
-                atms.add(atm);
-            }
-        }
-        return atms;
+        return Objects.requireNonNull(response.getBody()).getItems().stream()
+                .map(item -> AtmCs.builder()
+                        .id(item.getId())
+                        .location(AtmCs.Location.builder()
+                                .lng(item.getLocation().getLng())
+                                .lat(item.getLocation().getLat())
+                                        .build())
+                        .type(item.getType())
+                        .state(item.getState())
+                        .name(item.getName())
+                        .address(item.getAddress())
+                        .city(item.getCity())
+                        .postCode(item.getPostCode())
+                        .country(item.getCountry())
+                        .region(item.getRegion())
+                        .bankCode(item.getBankCode())
+                        .accessType(item.getAccessType())
+                        .atmNumber(item.getAtmNumber())
+                        .cityPart(item.getCityPart())
+                        .installDate(item.getInstallDate() != null ? OffsetDateTime.parse(item.getInstallDate()) : null)                        .build())
+                .collect(Collectors.toList());
     }
 }

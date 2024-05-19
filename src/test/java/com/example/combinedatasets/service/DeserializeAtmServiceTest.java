@@ -1,11 +1,11 @@
 package com.example.combinedatasets.service;
 
 import com.example.combinedatasets.domain.AtmCs;
-import com.fasterxml.jackson.core.JsonProcessingException;
+import com.example.combinedatasets.domain.AtmResponse;
+import com.example.combinedatasets.integration.AtmApiInterfaceImpl;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 
 import java.util.List;
@@ -15,6 +15,9 @@ class DeserializeAtmServiceTest {
 
     @Autowired
     private DeserializeAtmService atmService;
+
+    @Autowired
+    private AtmApiInterfaceImpl atmApiInterface;
 
     String mockResponse = """
             {
@@ -87,15 +90,14 @@ class DeserializeAtmServiceTest {
             }""";
 
     @Test
-    void deserializeAtmData() throws JsonProcessingException {
+    void deserializeAtmData(){
 
-        ResponseEntity<String> response = new ResponseEntity<>(mockResponse, HttpStatus.OK);
+        ResponseEntity<AtmResponse> response = atmApiInterface.callSporitelnaAtmsList();
 
         List<AtmCs> atms = atmService.deserializeAtmData(response);
 
         for (AtmCs atm : atms){
             System.out.println(atm.toString());
         }
-
     }
 }
