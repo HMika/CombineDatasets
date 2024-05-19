@@ -1,5 +1,6 @@
 package com.example.combinedatasets.integration;
 
+import com.example.combinedatasets.domain.AtmResponse;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
@@ -13,7 +14,7 @@ class AtmApiInterfaceImplTest {
 
     @Test
     void callSporitelnaAtmsList() {
-        ResponseEntity<String> response = atmApiInterface.callSporitelnaAtmsList();
+        ResponseEntity<AtmResponse> response = atmApiInterface.callSporitelnaAtmsList();
         System.out.println("API Response: " + response.getBody());
     }
 }

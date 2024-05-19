@@ -1,8 +1,9 @@
 package com.example.combinedatasets.integration;
 
+import com.example.combinedatasets.domain.AtmResponse;
 import org.springframework.http.ResponseEntity;
 
 public interface AtmApiInterface {
-    ResponseEntity<String> callSporitelnaAtmsList();
+    ResponseEntity<AtmResponse> callSporitelnaAtmsList();
 
 }

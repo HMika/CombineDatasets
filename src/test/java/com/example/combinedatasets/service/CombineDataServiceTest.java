@@ -1,6 +1,7 @@
 package com.example.combinedatasets.service;
 
 import com.example.combinedatasets.domain.AtmCs;
+import com.example.combinedatasets.domain.AtmResponse;
 import com.example.combinedatasets.domain.CombinedResponse;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import org.junit.jupiter.api.Test;
@@ -91,8 +92,8 @@ class CombineDataServiceTest {
             }""";
 
 //    @Test
-//    void conbineDatasets() throws JsonProcessingException {
-//        ResponseEntity<String> response = new ResponseEntity<>(mockResponse, HttpStatus.OK);
+//    void conbineDatasets() {
+//        ResponseEntity<AtmResponse> response = new ResponseEntity<>(mockResponse, HttpStatus.OK);
 //        List<AtmCs> atms = deserializeAtmService.deserializeAtmData(response);
 //
 //        List<CombinedResponse> combinedResponses = combineDataService.combineDatasets(atms);
@@ -102,7 +103,5 @@ class CombineDataServiceTest {
 //        }
 //
 //    }
-
-
 
 }

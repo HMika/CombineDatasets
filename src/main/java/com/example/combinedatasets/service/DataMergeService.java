@@ -1,9 +1,9 @@
 package com.example.combinedatasets.service;
 
 import com.example.combinedatasets.domain.AtmCs;
+import com.example.combinedatasets.domain.AtmResponse;
 import com.example.combinedatasets.domain.CombinedResponse;
 import com.example.combinedatasets.integration.AtmApiInterfaceImpl;
-import com.fasterxml.jackson.core.JsonProcessingException;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
@@ -22,8 +22,8 @@ public class DataMergeService {
         this.combineData = combineData;
     }
 
-    public List<CombinedResponse> getCombinedData() throws JsonProcessingException, ExecutionException, InterruptedException {
-        ResponseEntity<String> response = atmApiInterface.callSporitelnaAtmsList();
+    public List<CombinedResponse> getCombinedData() throws ExecutionException, InterruptedException {
+        ResponseEntity<AtmResponse> response = atmApiInterface.callSporitelnaAtmsList();
         List<AtmCs> atms = deserializeAtmService.deserializeAtmData(response);
         return combineData.combineDatasets(atms);
     }

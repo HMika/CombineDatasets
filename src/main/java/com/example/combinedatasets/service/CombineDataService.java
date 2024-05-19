@@ -43,8 +43,8 @@ public class CombineDataService {
     private List<CombinedResponse> processAtmBatch(List<AtmCs> atmBatch) {
         List<CombinedResponse> combinedResponses = new ArrayList<>();
         for (AtmCs atm : atmBatch) {
-            String lat = atm.getLocation().getLat();
-            String lng = atm.getLocation().getLng();
+            String lat = String.valueOf(atm.getLocation().getLat());
+            String lng = String.valueOf(atm.getLocation().getLng());
 
             ResponseEntity<WeatherResponse> weatherInfo = weatherApiInterface.callExternalWeatherApi(lat, lng);
 
