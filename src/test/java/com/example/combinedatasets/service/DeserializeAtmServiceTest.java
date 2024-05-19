@@ -2,102 +2,72 @@ package com.example.combinedatasets.service;
 
 import com.example.combinedatasets.domain.AtmCs;
 import com.example.combinedatasets.domain.AtmResponse;
-import com.example.combinedatasets.integration.AtmApiInterfaceImpl;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import org.springframework.beans.factory.annotation.Autowired;
+import org.mockito.Mock;
+import org.mockito.MockitoAnnotations;
 import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 
+import java.io.File;
+import java.time.OffsetDateTime;
 import java.util.List;
+import java.util.Objects;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertNotNull;
+import static org.mockito.Mockito.when;
 
 @SpringBootTest
 class DeserializeAtmServiceTest {
 
-    @Autowired
-    private DeserializeAtmService atmService;
+    @Mock
+    private ResponseEntity<AtmResponse> responseEntity;
 
-    @Autowired
-    private AtmApiInterfaceImpl atmApiInterface;
+    private DeserializeAtmService deserializeAtmService;
 
-    String mockResponse = """
-            {
-                "pageNumber": 0,
-                "pageCount": 1,
-                "pageSize": 311,
-                "totalItemCount": 311,
-                "items": [
-                    {
-                        "id": 225,
-                        "location": {
-                            "lat": 50.089688,
-                            "lng": 14.42289
-                        },
-                        "type": "ATM",
-                        "state": "OPEN",
-                        "name": "Česká spořitelna, a.s.",
-                        "address": "Dlouhá 743/9",
-                        "city": "Praha 1",
-                        "postCode": "11000",
-                        "country": "CZ",
-                        "region": "Hlavní město Praha",
-                        "bankCode": "0800",
-                        "accessType": "nepřetržitě",
-                        "atmNumber": "225",
-                        "cityPart": "Staré Město",
-                        "installDate": "1996-09-01T00:00+02:00"
-                    },
-                    {
-                                "id": 432,
-                                "location": {
-                                    "lat": 50.089688,
-                                    "lng": 14.42289
-                                },
-                                "type": "ATM",
-                                "state": "OPEN",
-                                "name": "Česká spořitelna, a.s.",
-                                "address": "Dlouhá 743/9",
-                                "city": "Praha 1",
-                                "postCode": "11000",
-                                "country": "CZ",
-                                "region": "Hlavní město Praha",
-                                "bankCode": "0800",
-                                "accessType": "nepřetržitě",
-                                "atmNumber": "432",
-                                "cityPart": "Staré Město",
-                                "installDate": "2018-07-09T00:00+02:00"
-                            },
-                            {
-                                "id": 180,
-                                "location": {
-                                    "lat": 50.088343,
-                                    "lng": 14.432813
-                                },
-                                "type": "ATM",
-                                "state": "OPEN",
-                                "name": "METRO nám. Republiky (B)",
-                                "address": "Havlíčkova 1028/5",
-                                "city": "Praha 1",
-                                "postCode": "11000",
-                                "country": "CZ",
-                                "region": "Hlavní město Praha",
-                                "bankCode": "0800",
-                                "accessType": "nepřetržitě",
-                                "atmNumber": "180",
-                                "cityPart": "Nové Město",
-                                "installDate": "1994-08-01T00:00+02:00"
-                            }
-                ]
-            }""";
+
+    @BeforeEach
+    void setUp() {
+        MockitoAnnotations.openMocks(this);
+        deserializeAtmService = new DeserializeAtmService();
+    }
 
     @Test
-    void deserializeAtmData(){
+    void testDeserializeAtmData_Success() throws Exception {
 
-        ResponseEntity<AtmResponse> response = atmApiInterface.callSporitelnaAtmsList();
+        File mockResponse = new File(Objects.requireNonNull(getClass().getClassLoader().getResource("deserializeAtmsMock.json")).getFile());
 
-        List<AtmCs> atms = atmService.deserializeAtmData(response);
+        ObjectMapper objectMapper = new ObjectMapper();
+        AtmResponse atmResponse = objectMapper.readValue(mockResponse, AtmResponse.class);
 
-        for (AtmCs atm : atms){
-            System.out.println(atm.toString());
-        }
+        when(responseEntity.getStatusCode()).thenReturn(HttpStatus.OK);
+        when(responseEntity.getBody()).thenReturn(atmResponse);
+
+        List<AtmCs> atmCsList = deserializeAtmService.deserializeAtmData(responseEntity);
+
+        assertNotNull(atmCsList);
+        assertEquals(3, atmCsList.size());
+
+        assertNotNull(atmCsList);
+        assertEquals(3, atmCsList.size());
+
+        AtmCs firstAtm = atmCsList.get(0);
+        assertEquals(225, firstAtm.getId());
+        assertEquals("Česká spořitelna, a.s.", firstAtm.getName());
+        assertEquals("Dlouhá 743/9", firstAtm.getAddress());
+        assertEquals("Praha 1", firstAtm.getCity());
+        assertEquals("11000", firstAtm.getPostCode());
+        assertEquals("CZ", firstAtm.getCountry());
+        assertEquals("Hlavní město Praha", firstAtm.getRegion());
+        assertEquals("0800", firstAtm.getBankCode());
+        assertEquals("nepřetržitě", firstAtm.getAccessType());
+        assertEquals("225", firstAtm.getAtmNumber());
+        assertEquals("Staré Město", firstAtm.getCityPart());
+        assertEquals(OffsetDateTime.parse("1996-09-01T00:00+02:00"), firstAtm.getInstallDate());
+        assertEquals(50.089688, firstAtm.getLocation().getLat());
+        assertEquals(14.42289, firstAtm.getLocation().getLng());
     }
 }

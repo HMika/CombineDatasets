@@ -1,0 +1,6228 @@
+{
+  "pageNumber": 0,
+  "pageCount": 1,
+  "pageSize": 311,
+  "totalItemCount": 311,
+  "items": [
+    {
+      "id": 225,
+      "location": {
+        "lat": 50.089688,
+        "lng": 14.42289
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Dlouhá 743/9",
+      "city": "Praha 1",
+      "postCode": "11000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "225",
+      "cityPart": "Staré Město",
+      "installDate": "1996-09-01T00:00+02:00"
+    },
+    {
+      "id": 432,
+      "location": {
+        "lat": 50.089688,
+        "lng": 14.42289
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Dlouhá 743/9",
+      "city": "Praha 1",
+      "postCode": "11000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "432",
+      "cityPart": "Staré Město",
+      "installDate": "2018-07-09T00:00+02:00"
+    },
+    {
+      "id": 180,
+      "location": {
+        "lat": 50.088343,
+        "lng": 14.432813
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO nám. Republiky (B)",
+      "address": "Havlíčkova 1028/5",
+      "city": "Praha 1",
+      "postCode": "11000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "180",
+      "cityPart": "Nové Město",
+      "installDate": "1994-08-01T00:00+02:00"
+    },
+    {
+      "id": 167,
+      "location": {
+        "lat": 50.081905,
+        "lng": 14.422115
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Škodův palác (Magistrát HMP)",
+      "address": "Jungmannova 35/29",
+      "city": "Praha 1",
+      "postCode": "11000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "167",
+      "cityPart": "Nové Město",
+      "installDate": "2008-06-25T00:00+02:00"
+    },
+    {
+      "id": 113,
+      "location": {
+        "lat": 50.083093,
+        "lng": 14.422199
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Můstek (B)",
+      "address": "Jungmannovo náměstí 761/1",
+      "city": "Praha 1",
+      "postCode": "11000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "113",
+      "cityPart": "Nové Město",
+      "installDate": "1991-01-01T00:00+01:00"
+    },
+    {
+      "id": 142,
+      "location": {
+        "lat": 50.087617,
+        "lng": 14.404939
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Obchod Amadea",
+      "address": "Mostecká 40/26",
+      "city": "Praha 1",
+      "postCode": "11800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "142",
+      "cityPart": "Malá Strana",
+      "installDate": "1992-01-01T00:00+01:00"
+    },
+    {
+      "id": 406,
+      "location": {
+        "lat": 50.082601,
+        "lng": 14.418905
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Na Perštýně 342/1",
+      "city": "Praha 1",
+      "postCode": "11000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "406",
+      "cityPart": "Staré Město",
+      "installDate": "2016-11-23T00:00+01:00"
+    },
+    {
+      "id": 243,
+      "location": {
+        "lat": 50.082452,
+        "lng": 14.418866
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Na Perštýně 342/1",
+      "city": "Praha 1",
+      "postCode": "11000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "243",
+      "cityPart": "Staré Město",
+      "installDate": "2004-05-01T00:00+02:00"
+    },
+    {
+      "id": 165,
+      "location": {
+        "lat": 50.082474,
+        "lng": 14.418904
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Na Perštýně 342/1",
+      "city": "Praha 1",
+      "postCode": "11000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "165",
+      "cityPart": "Staré Město",
+      "installDate": "2009-10-09T00:00+02:00"
+    },
+    {
+      "id": 9149,
+      "location": {
+        "lat": 50.082601,
+        "lng": 14.418905
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Na Perštýně 342/1",
+      "city": "Praha 1",
+      "postCode": "11000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "9149",
+      "cityPart": "Staré Město",
+      "installDate": "2014-12-12T00:00+01:00"
+    },
+    {
+      "id": 124,
+      "location": {
+        "lat": 50.08439,
+        "lng": 14.42353
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Můstek (A)",
+      "address": "Na můstku 378/12",
+      "city": "Praha 1",
+      "postCode": "11000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "124",
+      "cityPart": "Staré Město",
+      "installDate": "1992-04-01T00:00+02:00"
+    },
+    {
+      "id": 103,
+      "location": {
+        "lat": 50.086508,
+        "lng": 14.426645
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s. (ARBAT)",
+      "address": "Na příkopě 584/29",
+      "city": "Praha 1",
+      "postCode": "11000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "103",
+      "cityPart": "Staré Město",
+      "installDate": "1991-09-01T00:00+02:00"
+    },
+    {
+      "id": 429,
+      "location": {
+        "lat": 50.086442,
+        "lng": 14.426716
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s. (ARBAT)",
+      "address": "Na příkopě 584/29",
+      "city": "Praha 1",
+      "postCode": "11000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "429",
+      "cityPart": "Staré Město",
+      "installDate": "2018-05-02T00:00+02:00"
+    },
+    {
+      "id": 122,
+      "location": {
+        "lat": 50.081478,
+        "lng": 14.419752
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Shopping Station Quadrio - METRO Národní třída (B) ",
+      "address": "Spálená 2121/22",
+      "city": "Praha 1",
+      "postCode": "11000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 08:00-21:00",
+      "atmNumber": "122",
+      "cityPart": "Nové Město",
+      "installDate": "2014-10-21T00:00+02:00"
+    },
+    {
+      "id": 352,
+      "location": {
+        "lat": 50.088511,
+        "lng": 14.431126
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Gestin Centrum",
+      "address": "V celnici 1040/5",
+      "city": "Praha 1",
+      "postCode": "11000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "352",
+      "cityPart": "Nové Město",
+      "installDate": "2010-05-10T00:00+02:00"
+    },
+    {
+      "id": 251,
+      "location": {
+        "lat": 50.090031,
+        "lng": 14.405352
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Senát Parlamentu ČR",
+      "address": "Valdštejnské náměstí 17/4",
+      "city": "Praha 1",
+      "postCode": "11800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "251",
+      "cityPart": "Malá Strana",
+      "installDate": "1997-07-01T00:00+02:00"
+    },
+    {
+      "id": 240,
+      "location": {
+        "lat": 50.081192,
+        "lng": 14.424622
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Galerie Myšák",
+      "address": "Vodičkova 710/31",
+      "city": "Praha 1",
+      "postCode": "11000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "240",
+      "cityPart": "Nové Město",
+      "installDate": "2007-12-10T00:00+01:00"
+    },
+    {
+      "id": 112,
+      "location": {
+        "lat": 50.079205,
+        "lng": 14.430576
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Muzeum I. (A)",
+      "address": "Václavské náměstí 1700/68",
+      "city": "Praha 1",
+      "postCode": "11000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "112",
+      "cityPart": "Nové Město",
+      "installDate": "1994-11-01T00:00+01:00"
+    },
+    {
+      "id": 141,
+      "location": {
+        "lat": 50.079731,
+        "lng": 14.430266
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Muzeum (C)",
+      "address": "Václavské náměstí 1700/68",
+      "city": "Praha 1",
+      "postCode": "11000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "141",
+      "cityPart": "Nové Město",
+      "installDate": "1993-01-01T00:00+01:00"
+    },
+    {
+      "id": 436,
+      "location": {
+        "lat": 50.080759,
+        "lng": 14.427719
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Václavské náměstí 799/48",
+      "city": "Praha 1",
+      "postCode": "11000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "436",
+      "cityPart": "Nové Město",
+      "installDate": "2019-07-11T00:00+02:00"
+    },
+    {
+      "id": 376,
+      "location": {
+        "lat": 50.080759,
+        "lng": 14.427719
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Václavské náměstí 799/48",
+      "city": "Praha 1",
+      "postCode": "11000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "376",
+      "cityPart": "Nové Město",
+      "installDate": "2013-12-16T00:00+01:00"
+    },
+    {
+      "id": 416,
+      "location": {
+        "lat": 50.080518,
+        "lng": 14.427362
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Václavské náměstí 799/48",
+      "city": "Praha 1",
+      "postCode": "11000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "416",
+      "cityPart": "Nové Město",
+      "installDate": "2017-07-20T00:00+02:00"
+    },
+    {
+      "id": 9233,
+      "location": {
+        "lat": 50.080759,
+        "lng": 14.427719
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Václavské náměstí 799/48",
+      "city": "Praha 1",
+      "postCode": "11000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "9233",
+      "cityPart": "Nové Město",
+      "installDate": "2017-07-20T00:00+02:00"
+    },
+    {
+      "id": 461,
+      "location": {
+        "lat": 50.080759,
+        "lng": 14.427719
+      },
+      "type": "ATM",
+      "state": "OUT_OF_ORDER",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Václavské náměstí 799/48",
+      "city": "Praha 1",
+      "postCode": "11000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "461",
+      "cityPart": "Nové Město",
+      "installDate": "2022-11-04T00:00+01:00"
+    },
+    {
+      "id": 123,
+      "location": {
+        "lat": 50.088361,
+        "lng": 14.429014
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Náměstí Republiky (B)",
+      "address": "náměstí Republiky 1077/2",
+      "city": "Praha 1",
+      "postCode": "11000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "123",
+      "cityPart": "Nové Město",
+      "installDate": "1992-01-01T00:00+01:00"
+    },
+    {
+      "id": 277,
+      "location": {
+        "lat": 50.088965,
+        "lng": 14.428772
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "OC PALLADIUM",
+      "address": "náměstí Republiky 1078/1",
+      "city": "Praha 1",
+      "postCode": "11000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 09:00-22:00",
+      "atmNumber": "277",
+      "cityPart": "Nové Město",
+      "installDate": "2007-10-23T00:00+02:00"
+    },
+    {
+      "id": 147,
+      "location": {
+        "lat": 50.090406,
+        "lng": 14.399954
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Informační středisko - Pražský hrad (III. nádvoří)",
+      "address": "Hrad III. nádvoří 48/2",
+      "city": "Praha 1 - Hradčany",
+      "postCode": "11900",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "147",
+      "cityPart": "Hradčany",
+      "installDate": "1993-01-01T00:00+01:00"
+    },
+    {
+      "id": 468,
+      "location": {
+        "lat": 50.088457,
+        "lng": 14.400498
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Obchod Dědkův mlýn",
+      "address": "Nerudova 254/9",
+      "city": "Praha 1 - Malá Strana",
+      "postCode": "11800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "468",
+      "cityPart": "Malá Strana",
+      "installDate": "2023-04-27T00:00+02:00"
+    },
+    {
+      "id": 169,
+      "location": {
+        "lat": 50.092035,
+        "lng": 14.411977
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Úřad vlády ČR",
+      "address": "nábřeží Edvarda Beneše 128/4",
+      "city": "Praha 1 - Malá Strana",
+      "postCode": "11800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "pro zaměstnance",
+      "atmNumber": "169",
+      "cityPart": "Malá Strana",
+      "installDate": "1996-01-01T00:00+01:00"
+    },
+    {
+      "id": 102,
+      "location": {
+        "lat": 50.079587,
+        "lng": 14.422483
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Vodičkova 730/9",
+      "city": "Praha 1 - Nové Město",
+      "postCode": "11000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "102",
+      "cityPart": "Nové Město",
+      "installDate": "1989-01-01T00:00+01:00"
+    },
+    {
+      "id": 440,
+      "location": {
+        "lat": 50.079657,
+        "lng": 14.422652
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Vodičkova 730/9",
+      "city": "Praha 1 - Nové Město",
+      "postCode": "11000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "440",
+      "cityPart": "Nové Město",
+      "installDate": "2019-12-16T00:00+01:00"
+    },
+    {
+      "id": 9147,
+      "location": {
+        "lat": 50.079657,
+        "lng": 14.422652
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Vodičkova 730/9",
+      "city": "Praha 1 - Nové Město",
+      "postCode": "11000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "9147",
+      "cityPart": "Nové Město",
+      "installDate": "2014-12-12T00:00+01:00"
+    },
+    {
+      "id": 173,
+      "location": {
+        "lat": 50.088492,
+        "lng": 14.415938
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Staroměstská (A)",
+      "address": "Kaprova 56/4",
+      "city": "Praha 1 - Staré Město",
+      "postCode": "11000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "173",
+      "cityPart": "Staré Město",
+      "installDate": "1994-05-01T00:00+02:00"
+    },
+    {
+      "id": 353,
+      "location": {
+        "lat": 50.086385,
+        "lng": 14.419407
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Dům u Zlaté koruny",
+      "address": "Malé náměstí 457/13",
+      "city": "Praha 1 - Staré Město",
+      "postCode": "11000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-24:00",
+      "atmNumber": "353",
+      "cityPart": "Staré Město",
+      "installDate": "2010-11-24T00:00+01:00"
+    },
+    {
+      "id": 459,
+      "location": {
+        "lat": 50.086969,
+        "lng": 14.417195
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Klementinum - Národní knihovna Praha",
+      "address": "Mariánské náměstí 190/5",
+      "city": "Praha 1 - Staré Město",
+      "postCode": "11000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "459",
+      "cityPart": "Staré Město",
+      "installDate": "2022-12-01T00:00+01:00"
+    },
+    {
+      "id": 329,
+      "location": {
+        "lat": 50.085009,
+        "lng": 14.422114
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Rytířská 536/29",
+      "city": "Praha 1 - Staré Město",
+      "postCode": "11000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "329",
+      "cityPart": "Staré Město",
+      "installDate": "2008-12-08T00:00+01:00"
+    },
+    {
+      "id": 328,
+      "location": {
+        "lat": 50.08502,
+        "lng": 14.422139
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Rytířská 536/29",
+      "city": "Praha 1 - Staré Město",
+      "postCode": "11000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "328",
+      "cityPart": "Staré Město",
+      "installDate": "2008-12-08T00:00+01:00"
+    },
+    {
+      "id": 194,
+      "location": {
+        "lat": 50.070167,
+        "lng": 14.48149
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Pražská energetika, a.s.",
+      "address": "Na hroudě 2149/19",
+      "city": "Praha 10",
+      "postCode": "10000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "194",
+      "cityPart": "Strašnice",
+      "installDate": "1996-09-01T00:00+02:00"
+    },
+    {
+      "id": 185,
+      "location": {
+        "lat": 50.068408,
+        "lng": 14.50751
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Skalka (A)",
+      "address": "Na padesátém 2292/75",
+      "city": "Praha 10",
+      "postCode": "10000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "185",
+      "cityPart": "Strašnice",
+      "installDate": "1994-06-01T00:00+02:00"
+    },
+    {
+      "id": 364,
+      "location": {
+        "lat": 50.082716,
+        "lng": 14.508622
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "BILLA",
+      "address": "Počernická 272/96",
+      "city": "Praha 10",
+      "postCode": "10800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "364",
+      "cityPart": "Malešice",
+      "installDate": "2012-02-09T00:00+01:00"
+    },
+    {
+      "id": 363,
+      "location": {
+        "lat": 50.070671,
+        "lng": 14.510752
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "TESCO Extra",
+      "address": "Přetlucká 3295/50",
+      "city": "Praha 10",
+      "postCode": "10000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 06:00-24:00",
+      "atmNumber": "363",
+      "cityPart": "Strašnice",
+      "installDate": "2011-09-21T00:00+02:00"
+    },
+    {
+      "id": 187,
+      "location": {
+        "lat": 50.075356,
+        "lng": 14.518332
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "DP Metro, depo Hostivař",
+      "address": "Sazečská 227/1",
+      "city": "Praha 10",
+      "postCode": "10800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "187",
+      "cityPart": "Strašnice",
+      "installDate": "1994-01-01T00:00+01:00"
+    },
+    {
+      "id": 199,
+      "location": {
+        "lat": 50.075693,
+        "lng": 14.515554
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Depo Hostivař (A)",
+      "address": "Sazečská 247/2",
+      "city": "Praha 10",
+      "postCode": "10800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "199",
+      "cityPart": "Strašnice",
+      "installDate": "2006-05-24T00:00+02:00"
+    },
+    {
+      "id": 133,
+      "location": {
+        "lat": 50.074964,
+        "lng": 14.489904
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Starostrašnická 984/47",
+      "city": "Praha 10",
+      "postCode": "10000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "133",
+      "cityPart": "Strašnice",
+      "installDate": "1993-02-01T00:00+01:00"
+    },
+    {
+      "id": 9036,
+      "location": {
+        "lat": 50.074964,
+        "lng": 14.489904
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Starostrašnická 984/47",
+      "city": "Praha 10",
+      "postCode": "10000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "9036",
+      "cityPart": "Strašnice",
+      "installDate": "2010-12-07T00:00+01:00"
+    },
+    {
+      "id": 435,
+      "location": {
+        "lat": 50.056999,
+        "lng": 14.507997
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Topolová 2915/16",
+      "city": "Praha 10",
+      "postCode": "10600",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "435",
+      "cityPart": "Záběhlice",
+      "installDate": "2019-04-04T00:00+02:00"
+    },
+    {
+      "id": 9110,
+      "location": {
+        "lat": 50.056999,
+        "lng": 14.507997
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Topolová 2915/16",
+      "city": "Praha 10",
+      "postCode": "10600",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "9110",
+      "cityPart": "Záběhlice",
+      "installDate": "2014-12-16T00:00+01:00"
+    },
+    {
+      "id": 299,
+      "location": {
+        "lat": 50.067511,
+        "lng": 14.468844
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "NC Eden (TESCO)",
+      "address": "U Slavie 1527/5",
+      "city": "Praha 10",
+      "postCode": "10000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "299",
+      "cityPart": "Vršovice",
+      "installDate": "2005-03-01T00:00+01:00"
+    },
+    {
+      "id": 253,
+      "location": {
+        "lat": 50.07281,
+        "lng": 14.491405
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Strašnická (A)",
+      "address": "V olšinách 200/69",
+      "city": "Praha 10",
+      "postCode": "10000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 05:00-24:00",
+      "atmNumber": "253",
+      "cityPart": "Strašnice",
+      "installDate": "1997-08-01T00:00+02:00"
+    },
+    {
+      "id": 9044,
+      "location": {
+        "lat": 50.069612,
+        "lng": 14.451308
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Vršovické náměstí 67/8",
+      "city": "Praha 10",
+      "postCode": "10100",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "9044",
+      "cityPart": "Vršovice",
+      "installDate": "2011-04-19T00:00+02:00"
+    },
+    {
+      "id": 168,
+      "location": {
+        "lat": 50.050195,
+        "lng": 14.543923
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "ALBERT Supermarket (OD Taškent)",
+      "address": "plukovníka Mráze 1182/24",
+      "city": "Praha 10",
+      "postCode": "10200",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "168",
+      "cityPart": "Hostivař",
+      "installDate": "1994-03-01T00:00+01:00"
+    },
+    {
+      "id": 127,
+      "location": {
+        "lat": 50.07562,
+        "lng": 14.477046
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "FN Královské Vinohrady (pavilon H)",
+      "address": "Šrobárova 1150/50",
+      "city": "Praha 10",
+      "postCode": "10000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 08:00-19:00",
+      "atmNumber": "127",
+      "cityPart": "Vinohrady",
+      "installDate": "1992-07-01T00:00+02:00"
+    },
+    {
+      "id": 278,
+      "location": {
+        "lat": 50.053588,
+        "lng": 14.517725
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "VIVO! Hostivař",
+      "address": "Švehlova 1391/32",
+      "city": "Praha 10",
+      "postCode": "10200",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "278",
+      "cityPart": "Hostivař",
+      "installDate": "2000-10-01T00:00+02:00"
+    },
+    {
+      "id": 367,
+      "location": {
+        "lat": 50.061782,
+        "lng": 14.588919
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "TESCO Expres",
+      "address": "Starodubečská 400/16",
+      "city": "Praha 10 - Dubeč",
+      "postCode": "10700",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "367",
+      "cityPart": "Dubeč",
+      "installDate": "2012-12-03T00:00+01:00"
+    },
+    {
+      "id": 345,
+      "location": {
+        "lat": 50.047217,
+        "lng": 14.553866
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "BILLA",
+      "address": "Hornoměcholupská 5/92",
+      "city": "Praha 10 - Horní Měcholupy",
+      "postCode": "10900",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "345",
+      "cityPart": "Horní Měcholupy",
+      "installDate": "2010-05-06T00:00+02:00"
+    },
+    {
+      "id": 302,
+      "location": {
+        "lat": 50.040553,
+        "lng": 14.558596
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "ALBERT Supermarket",
+      "address": "Veronské nám. 403",
+      "city": "Praha 10 - Horní Měcholupy",
+      "postCode": "10900",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-22:00",
+      "atmNumber": "302",
+      "cityPart": "Horní Měcholupy",
+      "installDate": "2003-12-01T00:00+01:00"
+    },
+    {
+      "id": 384,
+      "location": {
+        "lat": 50.040594,
+        "lng": 14.558855
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Veronské nám. 403",
+      "city": "Praha 10 - Horní Měcholupy",
+      "postCode": "10900",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "384",
+      "cityPart": "Horní Měcholupy",
+      "installDate": "2013-10-21T00:00+02:00"
+    },
+    {
+      "id": 453,
+      "location": {
+        "lat": 50.054561,
+        "lng": 14.537927
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Budova železniční stanice Praha - Hostivař",
+      "address": "U hostivařského nádraží 165/3",
+      "city": "Praha 10 - Hostivař",
+      "postCode": "10200",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "453",
+      "cityPart": "Hostivař",
+      "installDate": "2021-10-19T00:00+02:00"
+    },
+    {
+      "id": 242,
+      "location": {
+        "lat": 50.081202,
+        "lng": 14.500158
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Počernická 699/62a",
+      "city": "Praha 10 - Malešice",
+      "postCode": "10800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "242",
+      "cityPart": "Malešice",
+      "installDate": "1997-07-01T00:00+02:00"
+    },
+    {
+      "id": 445,
+      "location": {
+        "lat": 50.081202,
+        "lng": 14.500158
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Počernická 699/62a",
+      "city": "Praha 10 - Malešice",
+      "postCode": "10800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "445",
+      "cityPart": "Malešice",
+      "installDate": "2019-08-08T00:00+02:00"
+    },
+    {
+      "id": 344,
+      "location": {
+        "lat": 50.072559,
+        "lng": 14.497014
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "BILLA",
+      "address": "V olšinách 3140/108",
+      "city": "Praha 10 - Strašnice",
+      "postCode": "10000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "344",
+      "cityPart": "Strašnice",
+      "installDate": "2010-05-05T00:00+02:00"
+    },
+    {
+      "id": 226,
+      "location": {
+        "lat": 50.031548,
+        "lng": 14.599933
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Nové náměstí 1257/8",
+      "city": "Praha 10 - Uhříněves",
+      "postCode": "10400",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "226",
+      "cityPart": "Uhříněves",
+      "installDate": "1996-01-01T00:00+01:00"
+    },
+    {
+      "id": 443,
+      "location": {
+        "lat": 50.031606,
+        "lng": 14.599865
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Nové náměstí 1257/8",
+      "city": "Praha 10 - Uhříněves",
+      "postCode": "10400",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "443",
+      "cityPart": "Uhříněves",
+      "installDate": "2019-08-26T00:00+02:00"
+    },
+    {
+      "id": 334,
+      "location": {
+        "lat": 50.072496,
+        "lng": 14.471041
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "TESCO Expres",
+      "address": "Bělocerkevská 1304/32",
+      "city": "Praha 10 - Vršovice",
+      "postCode": "10000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "334",
+      "cityPart": "Vršovice",
+      "installDate": "2009-04-28T00:00+02:00"
+    },
+    {
+      "id": 321,
+      "location": {
+        "lat": 50.066862,
+        "lng": 14.459945
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "TESCO Expres",
+      "address": "Moskevská 466/82",
+      "city": "Praha 10 - Vršovice",
+      "postCode": "10100",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "321",
+      "cityPart": "Vršovice",
+      "installDate": "2009-04-03T00:00+02:00"
+    },
+    {
+      "id": 449,
+      "location": {
+        "lat": 50.069612,
+        "lng": 14.451308
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Vršovické náměstí 67/8",
+      "city": "Praha 10 - Vršovice",
+      "postCode": "10100",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "449",
+      "cityPart": "Vršovice",
+      "installDate": "2020-08-14T00:00+02:00"
+    },
+    {
+      "id": 340,
+      "location": {
+        "lat": 50.069612,
+        "lng": 14.451308
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Vršovické náměstí 67/8",
+      "city": "Praha 10 - Vršovice",
+      "postCode": "10100",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "340",
+      "cityPart": "Vršovice",
+      "installDate": "1990-01-01T00:00+01:00"
+    },
+    {
+      "id": 303,
+      "location": {
+        "lat": 50.072428,
+        "lng": 14.542286
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "OC Europark (ALBERT Hypermarket)",
+      "address": "Nákupní 389/2",
+      "city": "Praha 10 - Štěrboholy",
+      "postCode": "10200",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 08:00-20:00",
+      "atmNumber": "303",
+      "cityPart": "Štěrboholy",
+      "installDate": "2003-11-01T00:00+01:00"
+    },
+    {
+      "id": 393,
+      "location": {
+        "lat": 50.075533,
+        "lng": 14.433588
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Jugoslávská 2578/19",
+      "city": "Praha 2",
+      "postCode": "12000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "393",
+      "cityPart": "Vinohrady",
+      "installDate": "2014-07-12T00:00+02:00"
+    },
+    {
+      "id": 110,
+      "location": {
+        "lat": 50.075533,
+        "lng": 14.433588
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Jugoslávská 2578/19",
+      "city": "Praha 2",
+      "postCode": "12000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "110",
+      "cityPart": "Vinohrady",
+      "installDate": "1990-05-01T00:00+02:00"
+    },
+    {
+      "id": 441,
+      "location": {
+        "lat": 50.075533,
+        "lng": 14.433588
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Jugoslávská 2578/19",
+      "city": "Praha 2",
+      "postCode": "12000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "441",
+      "cityPart": "Vinohrady",
+      "installDate": "2020-01-14T00:00+01:00"
+    },
+    {
+      "id": 9199,
+      "location": {
+        "lat": 50.075533,
+        "lng": 14.433588
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Jugoslávská 2578/19",
+      "city": "Praha 2",
+      "postCode": "12000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "9199",
+      "cityPart": "Vinohrady",
+      "installDate": "2016-02-02T00:00+01:00"
+    },
+    {
+      "id": 9005,
+      "location": {
+        "lat": 50.075533,
+        "lng": 14.433588
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Jugoslávská 2578/19",
+      "city": "Praha 2",
+      "postCode": "12000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "9005",
+      "cityPart": "Vinohrady",
+      "installDate": "2010-01-29T00:00+01:00"
+    },
+    {
+      "id": 195,
+      "location": {
+        "lat": 50.07559,
+        "lng": 14.430544
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO I. P. Pavlova (C)",
+      "address": "Jugoslávská 934/1",
+      "city": "Praha 2",
+      "postCode": "12000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 05:00-24:00",
+      "atmNumber": "195",
+      "cityPart": "Vinohrady",
+      "installDate": "1994-11-01T00:00+01:00"
+    },
+    {
+      "id": 422,
+      "location": {
+        "lat": 50.074102,
+        "lng": 14.418551
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Karlovo náměstí 318/4",
+      "city": "Praha 2",
+      "postCode": "12000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "422",
+      "cityPart": "Nové Město",
+      "installDate": "2017-09-26T00:00+02:00"
+    },
+    {
+      "id": 9234,
+      "location": {
+        "lat": 50.074102,
+        "lng": 14.418551
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Karlovo náměstí 318/4",
+      "city": "Praha 2",
+      "postCode": "12000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "9234",
+      "cityPart": "Nové Město",
+      "installDate": "2017-09-26T00:00+02:00"
+    },
+    {
+      "id": 261,
+      "location": {
+        "lat": 50.063059,
+        "lng": 14.430161
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Vyšehrad (C)",
+      "address": "Kongresová 1655/1",
+      "city": "Praha 2",
+      "postCode": "14000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "261",
+      "cityPart": "Nusle",
+      "installDate": "1998-02-01T00:00+01:00"
+    },
+    {
+      "id": 177,
+      "location": {
+        "lat": 50.073309,
+        "lng": 14.414828
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Karlovo náměstí (B)",
+      "address": "Palackého náměstí 358/2",
+      "city": "Praha 2",
+      "postCode": "12800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "177",
+      "cityPart": "Nové Město",
+      "installDate": "1994-12-01T00:00+01:00"
+    },
+    {
+      "id": 215,
+      "location": {
+        "lat": 50.073233,
+        "lng": 14.419498
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Všeobecná fakultní nemocnice",
+      "address": "U nemocnice 499/2",
+      "city": "Praha 2",
+      "postCode": "12800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "215",
+      "cityPart": "Nové Město",
+      "installDate": "1990-01-01T00:00+01:00"
+    },
+    {
+      "id": 265,
+      "location": {
+        "lat": 50.075323,
+        "lng": 14.43809
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Náměstí Míru (A)",
+      "address": "náměstí Míru 586/10",
+      "city": "Praha 2",
+      "postCode": "12000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 05:00-24:00",
+      "atmNumber": "265",
+      "cityPart": "Vinohrady",
+      "installDate": "1997-12-01T00:00+01:00"
+    },
+    {
+      "id": 154,
+      "location": {
+        "lat": 50.066529,
+        "lng": 14.422511
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "LIDL",
+      "address": "Na slupi 2102/2b",
+      "city": "Praha 2 - Albertov",
+      "postCode": "12800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "154",
+      "cityPart": "Nové Město",
+      "installDate": "2008-04-24T00:00+02:00"
+    },
+    {
+      "id": 464,
+      "location": {
+        "lat": 50.070325,
+        "lng": 14.414028
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Parník Tyrš",
+      "address": "Rašínovo nábřeží 387/50",
+      "city": "Praha 2 - Nové Město",
+      "postCode": "12800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "464",
+      "cityPart": "Nové Město",
+      "installDate": "2022-04-19T00:00+02:00"
+    },
+    {
+      "id": 451,
+      "location": {
+        "lat": 50.077111,
+        "lng": 14.443532
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Večerka",
+      "address": "Vinohradská 1241/67",
+      "city": "Praha 2 - Vinohrady",
+      "postCode": "12000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "451",
+      "cityPart": "Vinohrady",
+      "installDate": "2021-05-14T00:00+02:00"
+    },
+    {
+      "id": 396,
+      "location": {
+        "lat": 50.08356,
+        "lng": 14.435485
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Hlavní nádraží Praha (úschovna zavazadel)",
+      "address": "Wilsonova 300/8",
+      "city": "Praha 2 - Vinohrady",
+      "postCode": "12000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "396",
+      "cityPart": "Vinohrady",
+      "installDate": "2013-05-13T00:00+02:00"
+    },
+    {
+      "id": 357,
+      "location": {
+        "lat": 50.08356,
+        "lng": 14.435485
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Hlavní nádraží Praha (naproti pokladnám ČD)",
+      "address": "Wilsonova 300/8",
+      "city": "Praha 2 - Vinohrady",
+      "postCode": "12000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "357",
+      "cityPart": "Vinohrady",
+      "installDate": "2016-11-02T00:00+01:00"
+    },
+    {
+      "id": 460,
+      "location": {
+        "lat": 50.078788,
+        "lng": 14.432625
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Panorama business center",
+      "address": "Škrétova 490/12",
+      "city": "Praha 2 - Vinohrady",
+      "postCode": "12000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "460",
+      "cityPart": "Vinohrady",
+      "installDate": "2022-09-20T00:00+02:00"
+    },
+    {
+      "id": 437,
+      "location": {
+        "lat": 50.091779,
+        "lng": 14.474737
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s. (IMADOS)",
+      "address": "Hartigova 2660/141",
+      "city": "Praha 3",
+      "postCode": "13000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "437",
+      "cityPart": "Žižkov",
+      "installDate": "2019-04-29T00:00+02:00"
+    },
+    {
+      "id": 132,
+      "location": {
+        "lat": 50.091779,
+        "lng": 14.474737
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s. (IMADOS)",
+      "address": "Hartigova 2660/141",
+      "city": "Praha 3",
+      "postCode": "13000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "132",
+      "cityPart": "Žižkov",
+      "installDate": "1995-05-01T00:00+02:00"
+    },
+    {
+      "id": 9150,
+      "location": {
+        "lat": 50.091779,
+        "lng": 14.474737
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Česká spořitelna, a.s. (IMADOS)",
+      "address": "Hartigova 2660/141",
+      "city": "Praha 3",
+      "postCode": "13000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "9150",
+      "cityPart": "Žižkov",
+      "installDate": "2014-12-08T00:00+01:00"
+    },
+    {
+      "id": 457,
+      "location": {
+        "lat": 50.084791,
+        "lng": 14.445307
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Viktoria Center",
+      "address": "Seifertova 2919/12a",
+      "city": "Praha 3",
+      "postCode": "13000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "457",
+      "cityPart": "Žižkov",
+      "installDate": "2022-02-16T00:00+01:00"
+    },
+    {
+      "id": 171,
+      "location": {
+        "lat": 50.08448,
+        "lng": 14.450521
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Sladkovského náměstí 413/4",
+      "city": "Praha 3",
+      "postCode": "13000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "171",
+      "cityPart": "Žižkov",
+      "installDate": "1994-04-01T00:00+02:00"
+    },
+    {
+      "id": 458,
+      "location": {
+        "lat": 50.08448,
+        "lng": 14.450521
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Sladkovského náměstí 413/4",
+      "city": "Praha 3",
+      "postCode": "13000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "458",
+      "cityPart": "Žižkov",
+      "installDate": "2021-12-06T00:00+01:00"
+    },
+    {
+      "id": 383,
+      "location": {
+        "lat": 50.077736,
+        "lng": 14.470983
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Stavební spořitelna České spořitelny, a.s.",
+      "address": "Vinohradská 1632/180",
+      "city": "Praha 3",
+      "postCode": "13000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "383",
+      "cityPart": "Vinohrady",
+      "installDate": "2014-06-04T00:00+02:00"
+    },
+    {
+      "id": 426,
+      "location": {
+        "lat": 50.077448,
+        "lng": 14.456801
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Vinohradská 1899/112",
+      "city": "Praha 3",
+      "postCode": "13000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "426",
+      "cityPart": "Vinohrady",
+      "installDate": "2018-12-05T00:00+01:00"
+    },
+    {
+      "id": 427,
+      "location": {
+        "lat": 50.077448,
+        "lng": 14.456801
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Vinohradská 1899/112",
+      "city": "Praha 3",
+      "postCode": "13000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "427",
+      "cityPart": "Vinohrady",
+      "installDate": "2018-12-05T00:00+01:00"
+    },
+    {
+      "id": 9259,
+      "location": {
+        "lat": 50.077448,
+        "lng": 14.456801
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Vinohradská 1899/112",
+      "city": "Praha 3",
+      "postCode": "13000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "9259",
+      "cityPart": "Vinohrady",
+      "installDate": "2018-12-05T00:00+01:00"
+    },
+    {
+      "id": 186,
+      "location": {
+        "lat": 50.078198,
+        "lng": 14.47386
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Želivského (A)",
+      "address": "Vinohradská 2405/188",
+      "city": "Praha 3",
+      "postCode": "13000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 05:00-24:00",
+      "atmNumber": "186",
+      "cityPart": "Vinohrady",
+      "installDate": "1994-08-01T00:00+02:00"
+    },
+    {
+      "id": 181,
+      "location": {
+        "lat": 50.078012,
+        "lng": 14.461138
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Flora (A)",
+      "address": "Vinohradská 2828/151",
+      "city": "Praha 3",
+      "postCode": "13000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "181",
+      "cityPart": "Žižkov",
+      "installDate": "1994-07-01T00:00+02:00"
+    },
+    {
+      "id": 151,
+      "location": {
+        "lat": 50.083983,
+        "lng": 14.440881
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Vysoká škola ekonomická",
+      "address": "náměstí Winstona Churchilla 1938/4",
+      "city": "Praha 3",
+      "postCode": "13000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "151",
+      "cityPart": "Žižkov",
+      "installDate": "2006-11-13T00:00+01:00"
+    },
+    {
+      "id": 230,
+      "location": {
+        "lat": 50.087623,
+        "lng": 14.461657
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Ringier",
+      "address": "Žerotínova 1133/32",
+      "city": "Praha 3",
+      "postCode": "13000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "230",
+      "cityPart": "Žižkov",
+      "installDate": "1996-10-01T00:00+02:00"
+    },
+    {
+      "id": 405,
+      "location": {
+        "lat": 50.087209,
+        "lng": 14.454495
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Řeznictví",
+      "address": "Hartigova 159/12",
+      "city": "Praha 3 - Žižkov",
+      "postCode": "13000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "405",
+      "cityPart": "Žižkov",
+      "installDate": "2017-06-22T00:00+02:00"
+    },
+    {
+      "id": 474,
+      "location": {
+        "lat": 50.080994,
+        "lng": 14.451124
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Žižkovská televizní věž - Tower Park Praha",
+      "address": "Mahlerovy sady 2699/1",
+      "city": "Praha 3 - Žižkov",
+      "postCode": "13000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "474",
+      "cityPart": "Žižkov",
+      "installDate": "2024-04-29T00:00+02:00"
+    },
+    {
+      "id": 146,
+      "location": {
+        "lat": 50.082165,
+        "lng": 14.457094
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Obchodní dům",
+      "address": "Táboritská 16/24",
+      "city": "Praha 3 - Žižkov",
+      "postCode": "13000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "146",
+      "cityPart": "Žižkov",
+      "installDate": "2009-05-07T00:00+02:00"
+    },
+    {
+      "id": 390,
+      "location": {
+        "lat": 50.040381,
+        "lng": 14.440033
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Technické centrum ČS, a.s.",
+      "address": "Antala Staška 1292/32",
+      "city": "Praha 4",
+      "postCode": "14000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "390",
+      "cityPart": "Krč",
+      "installDate": "2013-07-23T00:00+02:00"
+    },
+    {
+      "id": 301,
+      "location": {
+        "lat": 50.040381,
+        "lng": 14.440033
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Technické centrum ČS, a.s.",
+      "address": "Antala Staška 1292/32",
+      "city": "Praha 4",
+      "postCode": "14000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "301",
+      "cityPart": "Krč",
+      "installDate": "2007-06-20T00:00+02:00"
+    },
+    {
+      "id": 408,
+      "location": {
+        "lat": 50.040381,
+        "lng": 14.440033
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Technické centrum ČS, a.s.",
+      "address": "Antala Staška 1292/32",
+      "city": "Praha 4",
+      "postCode": "14000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "408",
+      "cityPart": "Krč",
+      "installDate": "2016-10-12T00:00+02:00"
+    },
+    {
+      "id": 256,
+      "location": {
+        "lat": 50.027676,
+        "lng": 14.507656
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Opatov (C)",
+      "address": "Bartůňkova 1159/4",
+      "city": "Praha 4",
+      "postCode": "14900",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "256",
+      "cityPart": "Chodov",
+      "installDate": "1997-09-01T00:00+02:00"
+    },
+    {
+      "id": 236,
+      "location": {
+        "lat": 50.045308,
+        "lng": 14.449256
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Budova TRIANON (Česká spořitelna, a.s.)",
+      "address": "Budějovická 1518/13a",
+      "city": "Praha 4",
+      "postCode": "14000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "236",
+      "cityPart": "Michle",
+      "installDate": "2009-06-05T00:00+02:00"
+    },
+    {
+      "id": 9015,
+      "location": {
+        "lat": 50.044153,
+        "lng": 14.449742
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Budějovická 1912/64b",
+      "city": "Praha 4",
+      "postCode": "14000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "9015",
+      "cityPart": "Krč",
+      "installDate": "2010-10-26T00:00+02:00"
+    },
+    {
+      "id": 375,
+      "location": {
+        "lat": 50.044153,
+        "lng": 14.449742
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Budějovická 1912/64b",
+      "city": "Praha 4",
+      "postCode": "14000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "375",
+      "cityPart": "Krč",
+      "installDate": "2013-01-17T00:00+01:00"
+    },
+    {
+      "id": 9152,
+      "location": {
+        "lat": 50.044162,
+        "lng": 14.44974
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Budějovická 1912/64b",
+      "city": "Praha 4",
+      "postCode": "14000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "9152",
+      "cityPart": "Krč",
+      "installDate": "2015-08-07T00:00+02:00"
+    },
+    {
+      "id": 263,
+      "location": {
+        "lat": 50.044323,
+        "lng": 14.449819
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Budějovická 1912/64b",
+      "city": "Praha 4",
+      "postCode": "14000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "263",
+      "cityPart": "Krč",
+      "installDate": "2009-06-05T00:00+02:00"
+    },
+    {
+      "id": 356,
+      "location": {
+        "lat": 50.044153,
+        "lng": 14.449742
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Budějovická 1912/64b",
+      "city": "Praha 4",
+      "postCode": "14000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "356",
+      "cityPart": "Krč",
+      "installDate": "1994-11-01T00:00+01:00"
+    },
+    {
+      "id": 235,
+      "location": {
+        "lat": 50.046762,
+        "lng": 14.487139
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Hlavní 2459/108",
+      "city": "Praha 4",
+      "postCode": "14100",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "235",
+      "cityPart": "Záběhlice",
+      "installDate": "1997-03-01T00:00+01:00"
+    },
+    {
+      "id": 434,
+      "location": {
+        "lat": 50.046762,
+        "lng": 14.487139
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Hlavní 2459/108",
+      "city": "Praha 4",
+      "postCode": "14100",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "434",
+      "cityPart": "Záběhlice",
+      "installDate": "2018-11-05T00:00+01:00"
+    },
+    {
+      "id": 288,
+      "location": {
+        "lat": 50.014373,
+        "lng": 14.457408
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Marimex CZ",
+      "address": "Libušská 221/264a",
+      "city": "Praha 4",
+      "postCode": "14200",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "288",
+      "cityPart": "Libuš",
+      "installDate": "2002-02-01T00:00+01:00"
+    },
+    {
+      "id": 9151,
+      "location": {
+        "lat": 50.051796,
+        "lng": 14.440417
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s. (GEMINI)",
+      "address": "Na Pankráci 1683/127",
+      "city": "Praha 4",
+      "postCode": "14000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "9151",
+      "cityPart": "Nusle",
+      "installDate": "2014-12-03T00:00+01:00"
+    },
+    {
+      "id": 221,
+      "location": {
+        "lat": 50.051644,
+        "lng": 14.439928
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s. (GEMINI)",
+      "address": "Na Pankráci 1683/127",
+      "city": "Praha 4",
+      "postCode": "14000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "221",
+      "cityPart": "Nusle",
+      "installDate": "2009-01-30T00:00+01:00"
+    },
+    {
+      "id": 176,
+      "location": {
+        "lat": 50.051644,
+        "lng": 14.439928
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Pankrác (C)",
+      "address": "Na Pankráci 1727/86",
+      "city": "Praha 4",
+      "postCode": "14000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "176",
+      "cityPart": "Nusle",
+      "installDate": "1994-04-01T00:00+02:00"
+    },
+    {
+      "id": 152,
+      "location": {
+        "lat": 50.026186,
+        "lng": 14.432438
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s. (OC Novodvorská Plaza)",
+      "address": "Novodvorská 1800/136",
+      "city": "Praha 4",
+      "postCode": "14200",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 06:00-22:00",
+      "atmNumber": "152",
+      "cityPart": "Braník",
+      "installDate": "1993-06-01T00:00+02:00"
+    },
+    {
+      "id": 9123,
+      "location": {
+        "lat": 50.026186,
+        "lng": 14.432438
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Česká spořitelna, a.s. (OC Novodvorská Plaza)",
+      "address": "Novodvorská 1800/136",
+      "city": "Praha 4",
+      "postCode": "14200",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "9123",
+      "cityPart": "Braník",
+      "installDate": "2013-12-20T00:00+01:00"
+    },
+    {
+      "id": 424,
+      "location": {
+        "lat": 50.063952,
+        "lng": 14.441898
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Nuselská 2/1",
+      "city": "Praha 4",
+      "postCode": "14000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "424",
+      "cityPart": "Nusle",
+      "installDate": "2017-12-05T00:00+01:00"
+    },
+    {
+      "id": 107,
+      "location": {
+        "lat": 50.063952,
+        "lng": 14.441898
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Nuselská 2/1",
+      "city": "Praha 4",
+      "postCode": "14000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "107",
+      "cityPart": "Nusle",
+      "installDate": "1990-06-01T00:00+02:00"
+    },
+    {
+      "id": 9103,
+      "location": {
+        "lat": 50.063952,
+        "lng": 14.441898
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Nuselská 2/1",
+      "city": "Praha 4",
+      "postCode": "14000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "9103",
+      "cityPart": "Nusle",
+      "installDate": "2012-05-02T00:00+02:00"
+    },
+    {
+      "id": 200,
+      "location": {
+        "lat": 50.044064,
+        "lng": 14.448126
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s. (centrála)",
+      "address": "Olbrachtova 1929/62",
+      "city": "Praha 4",
+      "postCode": "14000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "200",
+      "cityPart": "Krč",
+      "installDate": "2009-06-06T00:00+02:00"
+    },
+    {
+      "id": 119,
+      "location": {
+        "lat": 50.044064,
+        "lng": 14.448126
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s. (centrála)",
+      "address": "Olbrachtova 1929/62",
+      "city": "Praha 4",
+      "postCode": "14000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "119",
+      "cityPart": "Krč",
+      "installDate": "1995-11-01T00:00+01:00"
+    },
+    {
+      "id": 220,
+      "location": {
+        "lat": 50.030503,
+        "lng": 14.526512
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Háje II. (C)",
+      "address": "Opatovská 870/21",
+      "city": "Praha 4",
+      "postCode": "14900",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 05:00-24:00",
+      "atmNumber": "220",
+      "cityPart": "Háje",
+      "installDate": "1996-07-01T00:00+02:00"
+    },
+    {
+      "id": 126,
+      "location": {
+        "lat": 50.031098,
+        "lng": 14.528443
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Háje (C)",
+      "address": "Opatovská 871/23",
+      "city": "Praha 4",
+      "postCode": "14900",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 05:00-24:00",
+      "atmNumber": "126",
+      "cityPart": "Háje",
+      "installDate": "1992-06-01T00:00+02:00"
+    },
+    {
+      "id": 9102,
+      "location": {
+        "lat": 50.031078,
+        "lng": 14.53049
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Opatovská 874/25",
+      "city": "Praha 4",
+      "postCode": "14900",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "9102",
+      "cityPart": "Háje",
+      "installDate": "2012-04-25T00:00+02:00"
+    },
+    {
+      "id": 417,
+      "location": {
+        "lat": 50.031078,
+        "lng": 14.53049
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Opatovská 874/25",
+      "city": "Praha 4",
+      "postCode": "14900",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "417",
+      "cityPart": "Háje",
+      "installDate": "2017-08-29T00:00+02:00"
+    },
+    {
+      "id": 332,
+      "location": {
+        "lat": 50.031166,
+        "lng": 14.530457
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Opatovská 874/25",
+      "city": "Praha 4",
+      "postCode": "14900",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "332",
+      "cityPart": "Háje",
+      "installDate": "2010-03-16T00:00+01:00"
+    },
+    {
+      "id": 254,
+      "location": {
+        "lat": 50.030854,
+        "lng": 14.491994
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Chodov (C)",
+      "address": "Roztylská 2232/17",
+      "city": "Praha 4",
+      "postCode": "14800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "254",
+      "cityPart": "Chodov",
+      "installDate": "1997-08-01T00:00+02:00"
+    },
+    {
+      "id": 135,
+      "location": {
+        "lat": 50.006505,
+        "lng": 14.417131
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Sofijské náměstí 3404/3",
+      "city": "Praha 4",
+      "postCode": "14300",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "135",
+      "cityPart": "Modřany",
+      "installDate": "1993-03-01T00:00+01:00"
+    },
+    {
+      "id": 314,
+      "location": {
+        "lat": 50.006505,
+        "lng": 14.417131
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Sofijské náměstí 3404/3",
+      "city": "Praha 4",
+      "postCode": "14300",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "314",
+      "cityPart": "Modřany",
+      "installDate": "2011-06-08T00:00+02:00"
+    },
+    {
+      "id": 9073,
+      "location": {
+        "lat": 50.006495,
+        "lng": 14.417119
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Sofijské náměstí 3404/3",
+      "city": "Praha 4",
+      "postCode": "14300",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "9073",
+      "cityPart": "Modřany",
+      "installDate": "2011-06-08T00:00+02:00"
+    },
+    {
+      "id": 9164,
+      "location": {
+        "lat": 50.006524,
+        "lng": 14.416831
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Sofijské náměstí 3404/3",
+      "city": "Praha 4",
+      "postCode": "14300",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "9164",
+      "cityPart": "Modřany",
+      "installDate": "2016-11-21T00:00+01:00"
+    },
+    {
+      "id": 183,
+      "location": {
+        "lat": 50.037408,
+        "lng": 14.477697
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Roztyly (C)",
+      "address": "Tomíčkova 2144/1",
+      "city": "Praha 4",
+      "postCode": "14800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "183",
+      "cityPart": "Chodov",
+      "installDate": "1994-08-01T00:00+02:00"
+    },
+    {
+      "id": 306,
+      "location": {
+        "lat": 50.039111,
+        "lng": 14.475602
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "T-MOBILE",
+      "address": "Tomíčkova 2144/1",
+      "city": "Praha 4",
+      "postCode": "14800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "306",
+      "cityPart": "Chodov",
+      "installDate": "2004-04-01T00:00+02:00"
+    },
+    {
+      "id": 222,
+      "location": {
+        "lat": 50.017413,
+        "lng": 14.443338
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "ALBERT Supermarket",
+      "address": "Zdislavická 963/1",
+      "city": "Praha 4",
+      "postCode": "14200",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "222",
+      "cityPart": "Kamýk",
+      "installDate": "1996-07-01T00:00+02:00"
+    },
+    {
+      "id": 223,
+      "location": {
+        "lat": 50.056213,
+        "lng": 14.433822
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Centrotex (METRO Pražského povstání C)",
+      "address": "náměstí Hrdinů 1634/3",
+      "city": "Praha 4",
+      "postCode": "14000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "223",
+      "cityPart": "Nusle",
+      "installDate": "1996-08-01T00:00+02:00"
+    },
+    {
+      "id": 172,
+      "location": {
+        "lat": 50.041984,
+        "lng": 14.460224
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Kačerov (C)",
+      "address": "Čerčanská 626/5",
+      "city": "Praha 4",
+      "postCode": "14000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 05:00-24:00",
+      "atmNumber": "172",
+      "cityPart": "Krč",
+      "installDate": "1994-04-01T00:00+02:00"
+    },
+    {
+      "id": 232,
+      "location": {
+        "lat": 50.036747,
+        "lng": 14.412837
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Prodejna potravin",
+      "address": "Mezivrší 213/1",
+      "city": "Praha 4 - Braník",
+      "postCode": "14700",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "232",
+      "cityPart": "Braník",
+      "installDate": "2000-10-01T00:00+02:00"
+    },
+    {
+      "id": 466,
+      "location": {
+        "lat": 50.025159,
+        "lng": 14.515768
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "OC Opatovská",
+      "address": "Opatovská 1753/12",
+      "city": "Praha 4 - Chodov",
+      "postCode": "14900",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "466",
+      "cityPart": "Chodov",
+      "installDate": "2022-10-27T00:00+02:00"
+    },
+    {
+      "id": 447,
+      "location": {
+        "lat": 50.031211,
+        "lng": 14.49027
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s. (Westfield Chodov)",
+      "address": "Roztylská 2321/19",
+      "city": "Praha 4 - Chodov",
+      "postCode": "14800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "447",
+      "cityPart": "Chodov",
+      "installDate": "2020-06-10T00:00+02:00"
+    },
+    {
+      "id": 430,
+      "location": {
+        "lat": 50.031211,
+        "lng": 14.49027
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s. (Westfield Chodov)",
+      "address": "Roztylská 2321/19",
+      "city": "Praha 4 - Chodov",
+      "postCode": "14800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-22:00",
+      "atmNumber": "430",
+      "cityPart": "Chodov",
+      "installDate": "2018-07-20T00:00+02:00"
+    },
+    {
+      "id": 312,
+      "location": {
+        "lat": 50.031268,
+        "lng": 14.489371
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Westfield Chodov (ALBERT Hypermarket)",
+      "address": "Roztylská 2321/19",
+      "city": "Praha 4 - Chodov",
+      "postCode": "14800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-22:00",
+      "atmNumber": "312",
+      "cityPart": "Chodov",
+      "installDate": "2005-11-08T00:00+01:00"
+    },
+    {
+      "id": 313,
+      "location": {
+        "lat": 50.030892,
+        "lng": 14.490253
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s. (Westfield Chodov)",
+      "address": "Roztylská 2321/19",
+      "city": "Praha 4 - Chodov",
+      "postCode": "14800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-22:00",
+      "atmNumber": "313",
+      "cityPart": "Chodov",
+      "installDate": "2005-11-08T00:00+01:00"
+    },
+    {
+      "id": 9004,
+      "location": {
+        "lat": 50.030892,
+        "lng": 14.490253
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s. (Westfield Chodov)",
+      "address": "Roztylská 2321/19",
+      "city": "Praha 4 - Chodov",
+      "postCode": "14800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "9004",
+      "cityPart": "Chodov",
+      "installDate": "2011-03-15T00:00+01:00"
+    },
+    {
+      "id": 145,
+      "location": {
+        "lat": 50.050645,
+        "lng": 14.425976
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká televize",
+      "address": "Na hřebenech II 1132/4",
+      "city": "Praha 4 - Kavčí hory",
+      "postCode": "14700",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 06:00-22:00",
+      "atmNumber": "145",
+      "cityPart": "Podolí",
+      "installDate": "1992-11-01T00:00+01:00"
+    },
+    {
+      "id": 205,
+      "location": {
+        "lat": 50.029993,
+        "lng": 14.456393
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Thomayerova nemocnice (vrátnice)",
+      "address": "Thomayerova 800/5",
+      "city": "Praha 4 - Krč",
+      "postCode": "14000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "205",
+      "cityPart": "Krč",
+      "installDate": "1995-10-01T00:00+01:00"
+    },
+    {
+      "id": 391,
+      "location": {
+        "lat": 50.013646,
+        "lng": 14.487025
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "TESCO",
+      "address": "Velenická 72/2",
+      "city": "Praha 4 - Kunratice",
+      "postCode": "14800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "391",
+      "cityPart": "Kunratice",
+      "installDate": "2014-01-10T00:00+01:00"
+    },
+    {
+      "id": 121,
+      "location": {
+        "lat": 50.044875,
+        "lng": 14.469642
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Ředitelství DP Metro, depo Kačerov",
+      "address": "Sliačská 1150/1",
+      "city": "Praha 4 - Michle",
+      "postCode": "14100",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "pro zaměstnance",
+      "atmNumber": "121",
+      "cityPart": "Michle",
+      "installDate": "1991-01-01T00:00+01:00"
+    },
+    {
+      "id": 362,
+      "location": {
+        "lat": 50.01363,
+        "lng": 14.418567
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "KAUFLAND",
+      "address": "Lhotecká 2109/2d",
+      "city": "Praha 4 - Modřany",
+      "postCode": "14300",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-22:00",
+      "atmNumber": "362",
+      "cityPart": "Modřany",
+      "installDate": "2011-08-30T00:00+02:00"
+    },
+    {
+      "id": 209,
+      "location": {
+        "lat": 50.013184,
+        "lng": 14.421211
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "BILLA",
+      "address": "Mazancova 3058/2",
+      "city": "Praha 4 - Modřany",
+      "postCode": "14300",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "209",
+      "cityPart": "Modřany",
+      "installDate": "1996-01-01T00:00+01:00"
+    },
+    {
+      "id": 213,
+      "location": {
+        "lat": 50.005143,
+        "lng": 14.405579
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "OD VLTAVA",
+      "address": "Obchodní náměstí 1590/4",
+      "city": "Praha 4 - Modřany",
+      "postCode": "14300",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "213",
+      "cityPart": "Modřany",
+      "installDate": "1996-04-01T00:00+02:00"
+    },
+    {
+      "id": 465,
+      "location": {
+        "lat": 50.014153,
+        "lng": 14.39737
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Rosmarina Restaurant",
+      "address": "Vorařská 2387/3",
+      "city": "Praha 4 - Modřany",
+      "postCode": "14300",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "465",
+      "cityPart": "Modřany",
+      "installDate": "2022-10-27T00:00+02:00"
+    },
+    {
+      "id": 444,
+      "location": {
+        "lat": 50.059103,
+        "lng": 14.419826
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Bytový dům (vedle obchodu)",
+      "address": "Podolská 158/33",
+      "city": "Praha 4 - Podolí",
+      "postCode": "14700",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "444",
+      "cityPart": "Podolí",
+      "installDate": "2019-09-02T00:00+02:00"
+    },
+    {
+      "id": 342,
+      "location": {
+        "lat": 50.051432,
+        "lng": 14.417646
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Plavecký stadion Podolí",
+      "address": "Podolská 43/74",
+      "city": "Praha 4 - Podolí",
+      "postCode": "14700",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "342",
+      "cityPart": "Podolí",
+      "installDate": "2010-03-30T00:00+02:00"
+    },
+    {
+      "id": 473,
+      "location": {
+        "lat": 50.00401,
+        "lng": 14.472017
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "TAMDA FOODS (tržnice SAPA)",
+      "address": "Libušská 319/126",
+      "city": "Praha 4 - Písnice",
+      "postCode": "14200",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 08:00-20:00",
+      "atmNumber": "473",
+      "cityPart": "Písnice",
+      "installDate": "2024-03-21T00:00+01:00"
+    },
+    {
+      "id": 198,
+      "location": {
+        "lat": 50.044595,
+        "lng": 14.331565
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Lužiny (B)",
+      "address": "Archeologická 2256/1",
+      "city": "Praha 5",
+      "postCode": "15500",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 05:00-24:00",
+      "atmNumber": "198",
+      "cityPart": "Stodůlky",
+      "installDate": "1994-11-01T00:00+01:00"
+    },
+    {
+      "id": 197,
+      "location": {
+        "lat": 50.04696,
+        "lng": 14.308091
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Stodůlky (B)",
+      "address": "Hábova 1516/3",
+      "city": "Praha 5",
+      "postCode": "15500",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "197",
+      "cityPart": "Stodůlky",
+      "installDate": "1994-11-01T00:00+01:00"
+    },
+    {
+      "id": 150,
+      "location": {
+        "lat": 50.045318,
+        "lng": 14.32281
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Česká spořitelna, a.s. (OC Living Luka)",
+      "address": "Mukařovského 2590/2",
+      "city": "Praha 5",
+      "postCode": "15500",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-21:00",
+      "atmNumber": "150",
+      "cityPart": "Stodůlky",
+      "installDate": "2007-06-18T00:00+02:00"
+    },
+    {
+      "id": 9106,
+      "location": {
+        "lat": 50.045318,
+        "lng": 14.32281
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Česká spořitelna, a.s. (OC Living Luka)",
+      "address": "Mukařovského 2590/2",
+      "city": "Praha 5",
+      "postCode": "15500",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-21:00",
+      "atmNumber": "9106",
+      "cityPart": "Stodůlky",
+      "installDate": "2012-12-10T00:00+01:00"
+    },
+    {
+      "id": 404,
+      "location": {
+        "lat": 50.045318,
+        "lng": 14.32281
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Česká spořitelna, a.s. (OC Living Luka)",
+      "address": "Mukařovského 2590/2",
+      "city": "Praha 5",
+      "postCode": "15500",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-21:00",
+      "atmNumber": "404",
+      "cityPart": "Stodůlky",
+      "installDate": "2017-03-08T00:00+01:00"
+    },
+    {
+      "id": 159,
+      "location": {
+        "lat": 50.061423,
+        "lng": 14.408728
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Smíchovské nádraží (B)",
+      "address": "Nádražní 279/1",
+      "city": "Praha 5",
+      "postCode": "15000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "159",
+      "cityPart": "Smíchov",
+      "installDate": "1993-09-01T00:00+02:00"
+    },
+    {
+      "id": 454,
+      "location": {
+        "lat": 50.071005,
+        "lng": 14.380391
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Klamovka",
+      "address": "Plzeňská 3378",
+      "city": "Praha 5",
+      "postCode": "15000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "454",
+      "cityPart": "Smíchov",
+      "installDate": "2023-02-15T00:00+01:00"
+    },
+    {
+      "id": 258,
+      "location": {
+        "lat": 50.054511,
+        "lng": 14.371087
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Jinonice (B)",
+      "address": "Puchmajerova 604/9",
+      "city": "Praha 5",
+      "postCode": "15800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 05:00-24:00",
+      "atmNumber": "258",
+      "cityPart": "Jinonice",
+      "installDate": "1997-10-01T00:00+02:00"
+    },
+    {
+      "id": 257,
+      "location": {
+        "lat": 50.057964,
+        "lng": 14.389393
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Radlická (B)",
+      "address": "Radlická 176/142",
+      "city": "Praha 5",
+      "postCode": "15000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 05:00-24:00",
+      "atmNumber": "257",
+      "cityPart": "Radlice",
+      "installDate": "1997-10-01T00:00+02:00"
+    },
+    {
+      "id": 137,
+      "location": {
+        "lat": 50.047466,
+        "lng": 14.354571
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Galerie Butovice (ALBERT Hypermarket)",
+      "address": "Radlická 520/117",
+      "city": "Praha 5",
+      "postCode": "15800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 08:00-22:00",
+      "atmNumber": "137",
+      "cityPart": "Jinonice",
+      "installDate": "2005-11-30T00:00+01:00"
+    },
+    {
+      "id": 259,
+      "location": {
+        "lat": 50.051076,
+        "lng": 14.353823
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Nové Butovice (B)",
+      "address": "Seydlerova 2152/1",
+      "city": "Praha 5",
+      "postCode": "15800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "259",
+      "cityPart": "Stodůlky",
+      "installDate": "1997-10-01T00:00+02:00"
+    },
+    {
+      "id": 120,
+      "location": {
+        "lat": 50.072986,
+        "lng": 14.340066
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Fakultní nemocnice Motol",
+      "address": "V úvalu 84/1",
+      "city": "Praha 5",
+      "postCode": "15000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "120",
+      "cityPart": "Motol",
+      "installDate": "1995-01-01T00:00+01:00"
+    },
+    {
+      "id": 207,
+      "location": {
+        "lat": 50.068914,
+        "lng": 14.404051
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Anděl (B)",
+      "address": "Za Ženskými domovy 253/4",
+      "city": "Praha 5",
+      "postCode": "15000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "207",
+      "cityPart": "Smíchov",
+      "installDate": "1995-10-01T00:00+01:00"
+    },
+    {
+      "id": 252,
+      "location": {
+        "lat": 50.053803,
+        "lng": 14.290665
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Zličín (B)",
+      "address": "Řevnická 121/1",
+      "city": "Praha 5",
+      "postCode": "15521",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "252",
+      "cityPart": "Třebonice",
+      "installDate": "1997-07-01T00:00+02:00"
+    },
+    {
+      "id": 388,
+      "location": {
+        "lat": 50.054137,
+        "lng": 14.287914
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Česká spořitelna, a.s. (OC Metropole)",
+      "address": "Řevnická 121/1",
+      "city": "Praha 5",
+      "postCode": "15521",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 09:00-21:00",
+      "atmNumber": "388",
+      "cityPart": "Třebonice",
+      "installDate": "2014-07-30T00:00+02:00"
+    },
+    {
+      "id": 339,
+      "location": {
+        "lat": 50.054137,
+        "lng": 14.287914
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Česká spořitelna, a.s. (OC Metropole)",
+      "address": "Řevnická 121/1",
+      "city": "Praha 5",
+      "postCode": "15521",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 09:00-21:00",
+      "atmNumber": "339",
+      "cityPart": "Třebonice",
+      "installDate": "2013-08-13T00:00+02:00"
+    },
+    {
+      "id": 105,
+      "location": {
+        "lat": 50.073582,
+        "lng": 14.403474
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s. (OC Nový Smíchov)",
+      "address": "Štefánikova 247/17",
+      "city": "Praha 5",
+      "postCode": "15000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-24:00",
+      "atmNumber": "105",
+      "cityPart": "Smíchov",
+      "installDate": "1990-01-01T00:00+01:00"
+    },
+    {
+      "id": 9002,
+      "location": {
+        "lat": 50.073648,
+        "lng": 14.403291
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s. (OC Nový Smíchov)",
+      "address": "Štefánikova 247/17",
+      "city": "Praha 5",
+      "postCode": "15000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-24:00",
+      "atmNumber": "9002",
+      "cityPart": "Smíchov",
+      "installDate": "2009-11-19T00:00+01:00"
+    },
+    {
+      "id": 413,
+      "location": {
+        "lat": 50.073587,
+        "lng": 14.403219
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s. (OC Nový Smíchov)",
+      "address": "Štefánikova 247/17",
+      "city": "Praha 5",
+      "postCode": "15000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-24:00",
+      "atmNumber": "413",
+      "cityPart": "Smíchov",
+      "installDate": "2017-06-09T00:00+02:00"
+    },
+    {
+      "id": 323,
+      "location": {
+        "lat": 50.073648,
+        "lng": 14.403291
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s. (OC Nový Smíchov)",
+      "address": "Štefánikova 247/17",
+      "city": "Praha 5",
+      "postCode": "15000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-24:00",
+      "atmNumber": "323",
+      "cityPart": "Smíchov",
+      "installDate": "2008-07-11T00:00+02:00"
+    },
+    {
+      "id": 366,
+      "location": {
+        "lat": 50.073587,
+        "lng": 14.403219
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s. (OC Nový Smíchov)",
+      "address": "Štefánikova 247/17",
+      "city": "Praha 5",
+      "postCode": "15000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-24:00",
+      "atmNumber": "366",
+      "cityPart": "Smíchov",
+      "installDate": "2013-10-22T00:00+02:00"
+    },
+    {
+      "id": 9197,
+      "location": {
+        "lat": 50.073587,
+        "lng": 14.403219
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s. (OC Nový Smíchov)",
+      "address": "Štefánikova 247/17",
+      "city": "Praha 5",
+      "postCode": "15000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-24:00",
+      "atmNumber": "9197",
+      "cityPart": "Smíchov",
+      "installDate": "2015-12-22T00:00+01:00"
+    },
+    {
+      "id": 282,
+      "location": {
+        "lat": 50.031424,
+        "lng": 14.374705
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "ALBERT Supermarket",
+      "address": "Högerova 1098/11",
+      "city": "Praha 5 - Barrandov",
+      "postCode": "15200",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "282",
+      "cityPart": "Hlubočepy",
+      "installDate": "2001-01-22T00:00+01:00"
+    },
+    {
+      "id": 291,
+      "location": {
+        "lat": 50.030834,
+        "lng": 14.392248
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Filmové ateliery Barrandov",
+      "address": "Kříženeckého náměstí 1078/5a",
+      "city": "Praha 5 - Barrandov",
+      "postCode": "15200",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "291",
+      "cityPart": "Hlubočepy",
+      "installDate": "2002-06-01T00:00+02:00"
+    },
+    {
+      "id": 191,
+      "location": {
+        "lat": 50.034438,
+        "lng": 14.37644
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s. (OC Kamera)",
+      "address": "Tilleho náměstí 792/2",
+      "city": "Praha 5 - Hlubočepy",
+      "postCode": "15200",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "191",
+      "cityPart": "Hlubočepy",
+      "installDate": "1994-01-01T00:00+01:00"
+    },
+    {
+      "id": 9144,
+      "location": {
+        "lat": 50.034438,
+        "lng": 14.37644
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Česká spořitelna, a.s. (OC Kamera)",
+      "address": "Tilleho náměstí 792/2",
+      "city": "Praha 5 - Hlubočepy",
+      "postCode": "15200",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "9144",
+      "cityPart": "Hlubočepy",
+      "installDate": "2014-09-10T00:00+02:00"
+    },
+    {
+      "id": 398,
+      "location": {
+        "lat": 50.01744,
+        "lng": 14.391877
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "HORNBACH",
+      "address": "Strakonická 62",
+      "city": "Praha 5 - Malá Chuchle",
+      "postCode": "15900",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "398",
+      "cityPart": "Malá Chuchle",
+      "installDate": "2016-03-15T00:00+01:00"
+    },
+    {
+      "id": 164,
+      "location": {
+        "lat": 49.983981,
+        "lng": 14.35844
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "náměstí Osvoboditelů 1409",
+      "city": "Praha 5 - Radotín",
+      "postCode": "15300",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "164",
+      "cityPart": "Radotín",
+      "installDate": "1994-01-01T00:00+01:00"
+    },
+    {
+      "id": 452,
+      "location": {
+        "lat": 50.061423,
+        "lng": 14.408728
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Budova železniční stanice Praha Smíchov",
+      "address": "Nádražní 279/1",
+      "city": "Praha 5 - Smíchov",
+      "postCode": "15000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "452",
+      "cityPart": "Smíchov",
+      "installDate": "2021-10-19T00:00+02:00"
+    },
+    {
+      "id": 305,
+      "location": {
+        "lat": 50.072902,
+        "lng": 14.402054
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "OC Nový Smíchov",
+      "address": "Plzeňská 233/8",
+      "city": "Praha 5 - Smíchov",
+      "postCode": "15000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-24:00",
+      "atmNumber": "305",
+      "cityPart": "Smíchov",
+      "installDate": "2003-12-01T00:00+01:00"
+    },
+    {
+      "id": 279,
+      "location": {
+        "lat": 50.070498,
+        "lng": 14.404416
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Zlatý Anděl (ALBERT)",
+      "address": "Plzeňská 344/1",
+      "city": "Praha 5 - Smíchov",
+      "postCode": "15000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "279",
+      "cityPart": "Smíchov",
+      "installDate": "2000-10-30T00:00+01:00"
+    },
+    {
+      "id": 467,
+      "location": {
+        "lat": 50.077456,
+        "lng": 14.404379
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Tapas Bar Miró",
+      "address": "Štefánikova 321/46",
+      "city": "Praha 5 - Smíchov",
+      "postCode": "15000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "467",
+      "cityPart": "Smíchov",
+      "installDate": "2023-06-08T00:00+02:00"
+    },
+    {
+      "id": 283,
+      "location": {
+        "lat": 50.050203,
+        "lng": 14.341197
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "ALBERT Supermarket",
+      "address": "Sluneční náměstí 2567/8",
+      "city": "Praha 5 - Stodůlky",
+      "postCode": "15800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-21:00",
+      "atmNumber": "283",
+      "cityPart": "Stodůlky",
+      "installDate": "2001-01-26T00:00+01:00"
+    },
+    {
+      "id": 298,
+      "location": {
+        "lat": 50.050423,
+        "lng": 14.345294
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Sluneční náměstí 2583/11",
+      "city": "Praha 5 - Stodůlky",
+      "postCode": "15800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "298",
+      "cityPart": "Stodůlky",
+      "installDate": "2005-08-23T00:00+02:00"
+    },
+    {
+      "id": 9268,
+      "location": {
+        "lat": 50.050452,
+        "lng": 14.345316
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Sluneční náměstí 2583/11",
+      "city": "Praha 5 - Stodůlky",
+      "postCode": "15800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "9268",
+      "cityPart": "Stodůlky",
+      "installDate": "2018-11-26T00:00+01:00"
+    },
+    {
+      "id": 238,
+      "location": {
+        "lat": 50.051414,
+        "lng": 14.297724
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "IKEA",
+      "address": "Skandinávská 131/1",
+      "city": "Praha 5 - Třebonice",
+      "postCode": "15500",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "238",
+      "cityPart": "Třebonice",
+      "installDate": "1996-12-01T00:00+01:00"
+    },
+    {
+      "id": 270,
+      "location": {
+        "lat": 50.052963,
+        "lng": 14.296275
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "GLOBUS",
+      "address": "Sárská 133/5",
+      "city": "Praha 5 - Třebonice",
+      "postCode": "15500",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 08:00-22:00",
+      "atmNumber": "270",
+      "cityPart": "Třebonice",
+      "installDate": "1998-11-01T00:00+01:00"
+    },
+    {
+      "id": 380,
+      "location": {
+        "lat": 49.96793,
+        "lng": 14.386498
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "ALBERT Supermarket",
+      "address": "Elišky Přemyslovny 1269",
+      "city": "Praha 5 - Zbraslav",
+      "postCode": "15600",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "380",
+      "cityPart": "Zbraslav",
+      "installDate": "2013-09-24T00:00+02:00"
+    },
+    {
+      "id": 144,
+      "location": {
+        "lat": 49.975563,
+        "lng": 14.393224
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Zbraslavské náměstí 459",
+      "city": "Praha 5 - Zbraslav",
+      "postCode": "15600",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "144",
+      "cityPart": "Zbraslav",
+      "installDate": "1993-01-01T00:00+01:00"
+    },
+    {
+      "id": 157,
+      "location": {
+        "lat": 50.084239,
+        "lng": 14.366927
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Bělohorská 1655/110",
+      "city": "Praha 6",
+      "postCode": "16900",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "157",
+      "cityPart": "Břevnov",
+      "installDate": "1993-01-01T00:00+01:00"
+    },
+    {
+      "id": 9139,
+      "location": {
+        "lat": 50.084239,
+        "lng": 14.366927
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Bělohorská 1655/110",
+      "city": "Praha 6",
+      "postCode": "16900",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "9139",
+      "cityPart": "Břevnov",
+      "installDate": "2015-12-11T00:00+01:00"
+    },
+    {
+      "id": 338,
+      "location": {
+        "lat": 50.077213,
+        "lng": 14.340143
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "KAUFLAND",
+      "address": "Bělohorská 2426/205",
+      "city": "Praha 6",
+      "postCode": "16900",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-22:00",
+      "atmNumber": "338",
+      "cityPart": "Břevnov",
+      "installDate": "2009-09-15T00:00+02:00"
+    },
+    {
+      "id": 174,
+      "location": {
+        "lat": 50.100468,
+        "lng": 14.39235
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Dejvická (A)",
+      "address": "Evropská 344/4",
+      "city": "Praha 6",
+      "postCode": "16000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "174",
+      "cityPart": "Dejvice",
+      "installDate": "1994-04-01T00:00+02:00"
+    },
+    {
+      "id": 210,
+      "location": {
+        "lat": 50.097531,
+        "lng": 14.359313
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Nákupní centrum (BILLA)",
+      "address": "Evropská 695/73",
+      "city": "Praha 6",
+      "postCode": "16000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "210",
+      "cityPart": "Vokovice",
+      "installDate": "1996-02-01T00:00+01:00"
+    },
+    {
+      "id": 395,
+      "location": {
+        "lat": 50.098392,
+        "lng": 14.364701
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "METRO Bořislavka (A) - Pekárna Ječmínek",
+      "address": "Evropská 810/136",
+      "city": "Praha 6",
+      "postCode": "16000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "395",
+      "cityPart": "Vokovice",
+      "installDate": "2016-06-15T00:00+02:00"
+    },
+    {
+      "id": 455,
+      "location": {
+        "lat": 50.098448,
+        "lng": 14.365437
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Bořislavka Centrum",
+      "address": "Evropská 866/71",
+      "city": "Praha 6",
+      "postCode": "16000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-21:00",
+      "atmNumber": "455",
+      "cityPart": "Vokovice",
+      "installDate": "2022-02-03T00:00+01:00"
+    },
+    {
+      "id": 130,
+      "location": {
+        "lat": 50.093484,
+        "lng": 14.290464
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "OC Šestka (ALBERT Hypermarket)",
+      "address": "Fajtlova 1090/1",
+      "city": "Praha 6",
+      "postCode": "16100",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 08:00-22:00",
+      "atmNumber": "130",
+      "cityPart": "Ruzyně",
+      "installDate": "2006-11-10T00:00+01:00"
+    },
+    {
+      "id": 428,
+      "location": {
+        "lat": 50.088946,
+        "lng": 14.344159
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Křenova 438/7",
+      "city": "Praha 6",
+      "postCode": "16200",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "428",
+      "cityPart": "Veleslavín",
+      "installDate": "2019-08-23T00:00+02:00"
+    },
+    {
+      "id": 170,
+      "location": {
+        "lat": 50.088946,
+        "lng": 14.344159
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Křenova 438/7",
+      "city": "Praha 6",
+      "postCode": "16200",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "170",
+      "cityPart": "Veleslavín",
+      "installDate": "1997-12-01T00:00+01:00"
+    },
+    {
+      "id": 9168,
+      "location": {
+        "lat": 50.088946,
+        "lng": 14.344159
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Křenova 438/7",
+      "city": "Praha 6",
+      "postCode": "16200",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "9168",
+      "cityPart": "Veleslavín",
+      "installDate": "2016-03-11T00:00+01:00"
+    },
+    {
+      "id": 368,
+      "location": {
+        "lat": 50.111691,
+        "lng": 14.393117
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "KAUFLAND",
+      "address": "Pod Paťankou 2743/1b",
+      "city": "Praha 6",
+      "postCode": "16000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-22:00",
+      "atmNumber": "368",
+      "cityPart": "Dejvice",
+      "installDate": "2012-05-29T00:00+02:00"
+    },
+    {
+      "id": 125,
+      "location": {
+        "lat": 50.089049,
+        "lng": 14.36324
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Ústřední vojenská nemocnice (chirurgie)",
+      "address": "U vojenské nemocnice 1200/1",
+      "city": "Praha 6",
+      "postCode": "16200",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "125",
+      "cityPart": "Břevnov",
+      "installDate": "2001-12-01T00:00+01:00"
+    },
+    {
+      "id": 378,
+      "location": {
+        "lat": 50.101142,
+        "lng": 14.396565
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Vítězné náměstí 817/9",
+      "city": "Praha 6",
+      "postCode": "16000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "378",
+      "cityPart": "Bubeneč",
+      "installDate": "2013-02-04T00:00+01:00"
+    },
+    {
+      "id": 386,
+      "location": {
+        "lat": 50.101142,
+        "lng": 14.396565
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Vítězné náměstí 817/9",
+      "city": "Praha 6",
+      "postCode": "16000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "386",
+      "cityPart": "Bubeneč",
+      "installDate": "2013-02-04T00:00+01:00"
+    },
+    {
+      "id": 403,
+      "location": {
+        "lat": 50.101142,
+        "lng": 14.396565
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Vítězné náměstí 817/9",
+      "city": "Praha 6",
+      "postCode": "16000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "403",
+      "cityPart": "Bubeneč",
+      "installDate": "2019-03-01T00:00+01:00"
+    },
+    {
+      "id": 106,
+      "location": {
+        "lat": 50.101142,
+        "lng": 14.396565
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Vítězné náměstí 817/9",
+      "city": "Praha 6",
+      "postCode": "16000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "106",
+      "cityPart": "Bubeneč",
+      "installDate": "1990-01-01T00:00+01:00"
+    },
+    {
+      "id": 9035,
+      "location": {
+        "lat": 50.101142,
+        "lng": 14.396565
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Vítězné náměstí 817/9",
+      "city": "Praha 6",
+      "postCode": "16000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "9035",
+      "cityPart": "Bubeneč",
+      "installDate": "2010-12-17T00:00+01:00"
+    },
+    {
+      "id": 267,
+      "location": {
+        "lat": 50.079804,
+        "lng": 14.390434
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "ČVUT - Správa účelových zařízení",
+      "address": "Vaníčkova 315/7",
+      "city": "Praha 6 - Břevnov",
+      "postCode": "16900",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "267",
+      "cityPart": "Břevnov",
+      "installDate": "2002-09-01T00:00+02:00"
+    },
+    {
+      "id": 325,
+      "location": {
+        "lat": 50.103839,
+        "lng": 14.390554
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Národní technická knihovna",
+      "address": "Technická 2710/6",
+      "city": "Praha 6 - Dejvice",
+      "postCode": "16000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "po-pá 08:00-20:00",
+      "atmNumber": "325",
+      "cityPart": "Dejvice",
+      "installDate": "2009-09-10T00:00+02:00"
+    },
+    {
+      "id": 156,
+      "location": {
+        "lat": 50.097298,
+        "lng": 14.404797
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Hradčanská (A)",
+      "address": "Milady Horákové 299/121",
+      "city": "Praha 6 - Hradčany",
+      "postCode": "16000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "156",
+      "cityPart": "Hradčany",
+      "installDate": "1993-01-01T00:00+01:00"
+    },
+    {
+      "id": 139,
+      "location": {
+        "lat": 50.106257,
+        "lng": 14.266197
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Letiště Václava Havla Praha - terminál 1 (přílet.hala)",
+      "address": "Aviatická 1017/2",
+      "city": "Praha 6 - Ruzyně",
+      "postCode": "16100",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "139",
+      "cityPart": "Ruzyně",
+      "installDate": "1992-09-01T00:00+02:00"
+    },
+    {
+      "id": 214,
+      "location": {
+        "lat": 50.130672,
+        "lng": 14.375148
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká zemědělská univerzita (menza)",
+      "address": "Kamýcká 129",
+      "city": "Praha 6 - Suchdol",
+      "postCode": "16500",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "214",
+      "cityPart": "Suchdol",
+      "installDate": "1996-01-01T00:00+01:00"
+    },
+    {
+      "id": 425,
+      "location": {
+        "lat": 50.065516,
+        "lng": 14.301513
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "LIDL",
+      "address": "Makovského 1219/27",
+      "city": "Praha 6 - Řepy",
+      "postCode": "16300",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-21:00",
+      "atmNumber": "425",
+      "cityPart": "Řepy",
+      "installDate": "2019-09-19T00:00+02:00"
+    },
+    {
+      "id": 136,
+      "location": {
+        "lat": 50.064862,
+        "lng": 14.308198
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Makovského 1349/2a",
+      "city": "Praha 6 - Řepy",
+      "postCode": "16300",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "136",
+      "cityPart": "Řepy",
+      "installDate": "1995-05-01T00:00+02:00"
+    },
+    {
+      "id": 9145,
+      "location": {
+        "lat": 50.064849,
+        "lng": 14.308567
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Makovského 1349/2a",
+      "city": "Praha 6 - Řepy",
+      "postCode": "16300",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "9145",
+      "cityPart": "Řepy",
+      "installDate": "2014-12-05T00:00+01:00"
+    },
+    {
+      "id": 448,
+      "location": {
+        "lat": 50.06486,
+        "lng": 14.308889
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Makovského 1349/2a",
+      "city": "Praha 6 - Řepy",
+      "postCode": "16300",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "448",
+      "cityPart": "Řepy",
+      "installDate": "2021-08-24T00:00+02:00"
+    },
+    {
+      "id": 300,
+      "location": {
+        "lat": 50.075203,
+        "lng": 14.308219
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "HORNBACH",
+      "address": "Slánská 1706/2",
+      "city": "Praha 6 - Řepy",
+      "postCode": "16300",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "300",
+      "cityPart": "Řepy",
+      "installDate": "2002-12-01T00:00+01:00"
+    },
+    {
+      "id": 182,
+      "location": {
+        "lat": 50.099154,
+        "lng": 14.438587
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Vltavská (C)",
+      "address": "Bubenská 421/3",
+      "city": "Praha 7",
+      "postCode": "17000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 05:00-24:00",
+      "atmNumber": "182",
+      "cityPart": "Holešovice",
+      "installDate": "1994-01-01T00:00+01:00"
+    },
+    {
+      "id": 196,
+      "location": {
+        "lat": 50.103413,
+        "lng": 14.451463
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Dělnická 1222/49a",
+      "city": "Praha 7",
+      "postCode": "17000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "196",
+      "cityPart": "Holešovice",
+      "installDate": "1994-08-01T00:00+02:00"
+    },
+    {
+      "id": 433,
+      "location": {
+        "lat": 50.10338,
+        "lng": 14.451498
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Dělnická 1222/49a",
+      "city": "Praha 7",
+      "postCode": "17000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "433",
+      "cityPart": "Holešovice",
+      "installDate": "2018-11-07T00:00+01:00"
+    },
+    {
+      "id": 9269,
+      "location": {
+        "lat": 50.10338,
+        "lng": 14.451498
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Dělnická 1222/49a",
+      "city": "Praha 7",
+      "postCode": "17000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "9269",
+      "cityPart": "Holešovice",
+      "installDate": "2018-11-07T00:00+01:00"
+    },
+    {
+      "id": 229,
+      "location": {
+        "lat": 50.100155,
+        "lng": 14.421075
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Prodejna Country Life",
+      "address": "Korunovační 310/2",
+      "city": "Praha 7",
+      "postCode": "17000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "229",
+      "cityPart": "Bubeneč",
+      "installDate": "1996-10-01T00:00+02:00"
+    },
+    {
+      "id": 9121,
+      "location": {
+        "lat": 50.099029,
+        "lng": 14.433577
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Strossmayerovo náměstí 976/1",
+      "city": "Praha 7",
+      "postCode": "17000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "9121",
+      "cityPart": "Holešovice",
+      "installDate": "2014-01-11T00:00+01:00"
+    },
+    {
+      "id": 285,
+      "location": {
+        "lat": 50.099029,
+        "lng": 14.433577
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Strossmayerovo náměstí 976/1",
+      "city": "Praha 7",
+      "postCode": "17000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "285",
+      "cityPart": "Holešovice",
+      "installDate": "2004-07-01T00:00+02:00"
+    },
+    {
+      "id": 412,
+      "location": {
+        "lat": 50.099029,
+        "lng": 14.433577
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Strossmayerovo náměstí 976/1",
+      "city": "Praha 7",
+      "postCode": "17000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "412",
+      "cityPart": "Holešovice",
+      "installDate": "2017-04-19T00:00+02:00"
+    },
+    {
+      "id": 184,
+      "location": {
+        "lat": 50.109738,
+        "lng": 14.440249
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Holešovice (C)",
+      "address": "Vrbenského 635/39",
+      "city": "Praha 7",
+      "postCode": "17000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "184",
+      "cityPart": "Holešovice",
+      "installDate": "1994-08-01T00:00+02:00"
+    },
+    {
+      "id": 446,
+      "location": {
+        "lat": 50.101733,
+        "lng": 14.430191
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Centrum Stromovka",
+      "address": "Veletržní 1623/24",
+      "city": "Praha 7 - Holešovice",
+      "postCode": "17000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-21:00",
+      "atmNumber": "446",
+      "cityPart": "Holešovice",
+      "installDate": "2020-02-19T00:00+01:00"
+    },
+    {
+      "id": 140,
+      "location": {
+        "lat": 50.115475,
+        "lng": 14.464344
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Nemocnice Na Bulovce",
+      "address": "Budínova 67/2",
+      "city": "Praha 8",
+      "postCode": "18000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "140",
+      "cityPart": "Libeň",
+      "installDate": "1995-01-01T00:00+01:00"
+    },
+    {
+      "id": 385,
+      "location": {
+        "lat": 50.127436,
+        "lng": 14.468669
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Burešova 1659/3",
+      "city": "Praha 8",
+      "postCode": "18200",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "385",
+      "cityPart": "Kobylisy",
+      "installDate": "2013-01-11T00:00+01:00"
+    },
+    {
+      "id": 9113,
+      "location": {
+        "lat": 50.127436,
+        "lng": 14.468669
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Burešova 1659/3",
+      "city": "Praha 8",
+      "postCode": "18200",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "9113",
+      "cityPart": "Kobylisy",
+      "installDate": "2014-03-25T00:00+01:00"
+    },
+    {
+      "id": 290,
+      "location": {
+        "lat": 50.127436,
+        "lng": 14.468669
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Burešova 1659/3",
+      "city": "Praha 8",
+      "postCode": "18200",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "290",
+      "cityPart": "Kobylisy",
+      "installDate": "2003-03-01T00:00+01:00"
+    },
+    {
+      "id": 335,
+      "location": {
+        "lat": 50.089378,
+        "lng": 14.439701
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "ÚAN Praha Florenc (nástupiště)",
+      "address": "Křižíkova 2110/2b",
+      "city": "Praha 8",
+      "postCode": "18600",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 03:00-00:30",
+      "atmNumber": "335",
+      "cityPart": "Nové Město",
+      "installDate": "2009-06-09T00:00+02:00"
+    },
+    {
+      "id": 402,
+      "location": {
+        "lat": 50.089378,
+        "lng": 14.439701
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "ÚAN Praha Florenc (nová odbavovací hala)",
+      "address": "Křižíkova 2110/2b",
+      "city": "Praha 8",
+      "postCode": "18600",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 05:00-24:00",
+      "atmNumber": "402",
+      "cityPart": "Nové Město",
+      "installDate": "2015-10-01T00:00+02:00"
+    },
+    {
+      "id": 266,
+      "location": {
+        "lat": 50.097359,
+        "lng": 14.46493
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "ALBERT Supermarket",
+      "address": "Molákova 578/36",
+      "city": "Praha 8",
+      "postCode": "18600",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "266",
+      "cityPart": "Karlín",
+      "installDate": "2006-12-18T00:00+01:00"
+    },
+    {
+      "id": 462,
+      "location": {
+        "lat": 50.105277,
+        "lng": 14.473233
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Na hrázi 121/1",
+      "city": "Praha 8",
+      "postCode": "18000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "462",
+      "cityPart": "Libeň",
+      "installDate": "2022-10-21T00:00+02:00"
+    },
+    {
+      "id": 208,
+      "location": {
+        "lat": 50.105277,
+        "lng": 14.473233
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Na hrázi 121/1",
+      "city": "Praha 8",
+      "postCode": "18000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "208",
+      "cityPart": "Libeň",
+      "installDate": "1995-11-01T00:00+01:00"
+    },
+    {
+      "id": 9236,
+      "location": {
+        "lat": 50.105277,
+        "lng": 14.473233
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Na hrázi 121/1",
+      "city": "Praha 8",
+      "postCode": "18000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "9236",
+      "cityPart": "Libeň",
+      "installDate": "2017-10-24T00:00+02:00"
+    },
+    {
+      "id": 117,
+      "location": {
+        "lat": 50.104159,
+        "lng": 14.476095
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Palmovka (B)",
+      "address": "Na žertvách 132/24",
+      "city": "Praha 8",
+      "postCode": "18000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "117",
+      "cityPart": "Libeň",
+      "installDate": "1991-01-01T00:00+01:00"
+    },
+    {
+      "id": 189,
+      "location": {
+        "lat": 50.10351,
+        "lng": 14.473976
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Palmovka (B)",
+      "address": "Na žertvách 351/4",
+      "city": "Praha 8",
+      "postCode": "18000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "189",
+      "cityPart": "Libeň",
+      "installDate": "1994-08-01T00:00+02:00"
+    },
+    {
+      "id": 374,
+      "location": {
+        "lat": 50.093513,
+        "lng": 14.444391
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Kooperativa pojišťovna VIG",
+      "address": "Pobřežní 665/21",
+      "city": "Praha 8",
+      "postCode": "18600",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "po-pá 08:00-17:00",
+      "atmNumber": "374",
+      "cityPart": "Karlín",
+      "installDate": "2012-12-04T00:00+01:00"
+    },
+    {
+      "id": 111,
+      "location": {
+        "lat": 50.09091,
+        "lng": 14.439473
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Florenc (B)",
+      "address": "Sokolovská 34/5",
+      "city": "Praha 8",
+      "postCode": "18600",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 05:00-24:00",
+      "atmNumber": "111",
+      "cityPart": "Karlín",
+      "installDate": "1990-06-01T00:00+02:00"
+    },
+    {
+      "id": 231,
+      "location": {
+        "lat": 50.09091,
+        "lng": 14.439473
+      },
+      "type": "ATM",
+      "state": "OUT_OF_ORDER",
+      "name": "METRO Florenc (C)",
+      "address": "Sokolovská 34/5",
+      "city": "Praha 8",
+      "postCode": "18600",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "231",
+      "cityPart": "Karlín",
+      "installDate": "1996-10-01T00:00+02:00"
+    },
+    {
+      "id": 418,
+      "location": {
+        "lat": 50.091247,
+        "lng": 14.438456
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Sokolovská 371/1",
+      "city": "Praha 8",
+      "postCode": "18600",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "418",
+      "cityPart": "Karlín",
+      "installDate": "2017-08-10T00:00+02:00"
+    },
+    {
+      "id": 9228,
+      "location": {
+        "lat": 50.091247,
+        "lng": 14.438456
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Sokolovská 371/1",
+      "city": "Praha 8",
+      "postCode": "18600",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "9228",
+      "cityPart": "Karlín",
+      "installDate": "2017-08-10T00:00+02:00"
+    },
+    {
+      "id": 365,
+      "location": {
+        "lat": 50.091247,
+        "lng": 14.438456
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Sokolovská 371/1",
+      "city": "Praha 8",
+      "postCode": "18600",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "365",
+      "cityPart": "Karlín",
+      "installDate": "2011-12-13T00:00+01:00"
+    },
+    {
+      "id": 9023,
+      "location": {
+        "lat": 50.091247,
+        "lng": 14.438456
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Sokolovská 371/1",
+      "city": "Praha 8",
+      "postCode": "18600",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "9023",
+      "cityPart": "Karlín",
+      "installDate": "2010-11-16T00:00+01:00"
+    },
+    {
+      "id": 346,
+      "location": {
+        "lat": 50.127527,
+        "lng": 14.482286
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "KAUFLAND",
+      "address": "Střelničná 2270/46",
+      "city": "Praha 8",
+      "postCode": "18200",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-22:00",
+      "atmNumber": "346",
+      "cityPart": "Libeň",
+      "installDate": "2010-07-13T00:00+02:00"
+    },
+    {
+      "id": 410,
+      "location": {
+        "lat": 50.127208,
+        "lng": 14.450733
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "ALBERT Supermarket",
+      "address": "Trousilova 1064/4",
+      "city": "Praha 8",
+      "postCode": "18200",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-21:00",
+      "atmNumber": "410",
+      "cityPart": "Kobylisy",
+      "installDate": "2017-02-28T00:00+01:00"
+    },
+    {
+      "id": 324,
+      "location": {
+        "lat": 50.102051,
+        "lng": 14.468332
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "KAUFLAND",
+      "address": "Voctářova 2401/8",
+      "city": "Praha 8",
+      "postCode": "18000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-22:00",
+      "atmNumber": "324",
+      "cityPart": "Libeň",
+      "installDate": "2008-09-01T00:00+02:00"
+    },
+    {
+      "id": 296,
+      "location": {
+        "lat": 50.131385,
+        "lng": 14.409998
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "OD Visla - lékárna",
+      "address": "Zhořelecká 514/2",
+      "city": "Praha 8 - Bohnice",
+      "postCode": "18100",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "296",
+      "cityPart": "Bohnice",
+      "installDate": "2008-12-16T00:00+01:00"
+    },
+    {
+      "id": 450,
+      "location": {
+        "lat": 50.091115,
+        "lng": 14.451758
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "ERSTE Premier",
+      "address": "Pernerova 701/37",
+      "city": "Praha 8 - Karlín",
+      "postCode": "18600",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "450",
+      "cityPart": "Karlín",
+      "installDate": "2020-06-17T00:00+02:00"
+    },
+    {
+      "id": 309,
+      "location": {
+        "lat": 50.124439,
+        "lng": 14.455559
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Kobylisy (C)",
+      "address": "Klapkova 1035/28",
+      "city": "Praha 8 - Kobylisy",
+      "postCode": "18200",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "309",
+      "cityPart": "Kobylisy",
+      "installDate": "2004-06-01T00:00+02:00"
+    },
+    {
+      "id": 307,
+      "location": {
+        "lat": 50.123607,
+        "lng": 14.452504
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Kobylisy (C)",
+      "address": "Kobyliské náměstí 687/6",
+      "city": "Praha 8 - Kobylisy",
+      "postCode": "18200",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "307",
+      "cityPart": "Kobylisy",
+      "installDate": "2004-06-01T00:00+02:00"
+    },
+    {
+      "id": 308,
+      "location": {
+        "lat": 50.126676,
+        "lng": 14.469932
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Ládví (C)",
+      "address": "Střelničná 2269/48",
+      "city": "Praha 8 - Ládví",
+      "postCode": "18200",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "308",
+      "cityPart": "Libeň",
+      "installDate": "2004-06-01T00:00+02:00"
+    },
+    {
+      "id": 149,
+      "location": {
+        "lat": 50.127687,
+        "lng": 14.417737
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s. (OC Krakov)",
+      "address": "Lodžská 850/6",
+      "city": "Praha 8 - Troja",
+      "postCode": "18100",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-22:00",
+      "atmNumber": "149",
+      "cityPart": "Troja",
+      "installDate": "1993-06-01T00:00+02:00"
+    },
+    {
+      "id": 469,
+      "location": {
+        "lat": 50.127726,
+        "lng": 14.417361
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s. (OC Krakov)",
+      "address": "Lodžská 850/6",
+      "city": "Praha 8 - Troja",
+      "postCode": "18100",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-22:00",
+      "atmNumber": "469",
+      "cityPart": "Troja",
+      "installDate": "2023-08-22T00:00+02:00"
+    },
+    {
+      "id": 400,
+      "location": {
+        "lat": 50.127687,
+        "lng": 14.417737
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s. (OC Krakov)",
+      "address": "Lodžská 850/6",
+      "city": "Praha 8 - Troja",
+      "postCode": "18100",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-22:00",
+      "atmNumber": "400",
+      "cityPart": "Troja",
+      "installDate": "2014-11-13T00:00+01:00"
+    },
+    {
+      "id": 401,
+      "location": {
+        "lat": 50.107922,
+        "lng": 14.581453
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Česká spořitelna, a.s. (Centrum Černý Most)",
+      "address": "Chlumecká 765/6",
+      "city": "Praha 9",
+      "postCode": "19800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "401",
+      "cityPart": "Černý Most",
+      "installDate": "2015-05-21T00:00+02:00"
+    },
+    {
+      "id": 456,
+      "location": {
+        "lat": 50.107388,
+        "lng": 14.584599
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Česká spořitelna, a.s. (Centrum Černý Most)",
+      "address": "Chlumecká 765/6",
+      "city": "Praha 9",
+      "postCode": "19800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "456",
+      "cityPart": "Černý Most",
+      "installDate": "2022-09-14T00:00+02:00"
+    },
+    {
+      "id": 9163,
+      "location": {
+        "lat": 50.107922,
+        "lng": 14.581453
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Česká spořitelna, a.s. (Centrum Černý Most)",
+      "address": "Chlumecká 765/6",
+      "city": "Praha 9",
+      "postCode": "19800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "9163",
+      "cityPart": "Černý Most",
+      "installDate": "2015-05-21T00:00+02:00"
+    },
+    {
+      "id": 273,
+      "location": {
+        "lat": 50.106477,
+        "lng": 14.537458
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Hloubětín (B)",
+      "address": "Chvalská 718/10",
+      "city": "Praha 9",
+      "postCode": "19800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "273",
+      "cityPart": "Hloubětín",
+      "installDate": "1999-10-01T00:00+02:00"
+    },
+    {
+      "id": 272,
+      "location": {
+        "lat": 50.106875,
+        "lng": 14.560187
+      },
+      "type": "ATM",
+      "state": "OUT_OF_ORDER",
+      "name": "METRO Rajská zahrada (B)",
+      "address": "Cíglerova 1075/2",
+      "city": "Praha 9",
+      "postCode": "19800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "272",
+      "cityPart": "Černý Most",
+      "installDate": "1998-11-01T00:00+01:00"
+    },
+    {
+      "id": 175,
+      "location": {
+        "lat": 50.106565,
+        "lng": 14.492826
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Českomoravská (B)",
+      "address": "Drahobejlova 1894/52",
+      "city": "Praha 9",
+      "postCode": "19000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "175",
+      "cityPart": "Libeň",
+      "installDate": "1994-05-01T00:00+02:00"
+    },
+    {
+      "id": 143,
+      "location": {
+        "lat": 50.110351,
+        "lng": 14.515078
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Kolbenova (B)",
+      "address": "Kolbenova 499/42",
+      "city": "Praha 9",
+      "postCode": "19000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "143",
+      "cityPart": "Vysočany",
+      "installDate": "1993-04-01T00:00+02:00"
+    },
+    {
+      "id": 389,
+      "location": {
+        "lat": 50.111617,
+        "lng": 14.503959
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Pod pekárnami 878/2",
+      "city": "Praha 9",
+      "postCode": "19000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "389",
+      "cityPart": "Vysočany",
+      "installDate": "2013-06-12T00:00+02:00"
+    },
+    {
+      "id": 382,
+      "location": {
+        "lat": 50.10538,
+        "lng": 14.537267
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Obchodní galerie",
+      "address": "Poděbradská 489/116",
+      "city": "Praha 9",
+      "postCode": "19800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "382",
+      "cityPart": "Hloubětín",
+      "installDate": "2013-05-31T00:00+02:00"
+    },
+    {
+      "id": 239,
+      "location": {
+        "lat": 50.110099,
+        "lng": 14.499271
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Vysočanská (B)",
+      "address": "Sokolovská 14/324",
+      "city": "Praha 9",
+      "postCode": "19000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 05:00-24:00",
+      "atmNumber": "239",
+      "cityPart": "Vysočany",
+      "installDate": "2000-06-01T00:00+02:00"
+    },
+    {
+      "id": 104,
+      "location": {
+        "lat": 50.123674,
+        "lng": 14.496685
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Verneřická 408/3",
+      "city": "Praha 9",
+      "postCode": "19000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "104",
+      "cityPart": "Střížkov",
+      "installDate": "1990-01-01T00:00+01:00"
+    },
+    {
+      "id": 9024,
+      "location": {
+        "lat": 50.123674,
+        "lng": 14.496685
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Verneřická 408/3",
+      "city": "Praha 9",
+      "postCode": "19000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "9024",
+      "cityPart": "Střížkov",
+      "installDate": "2010-11-23T00:00+01:00"
+    },
+    {
+      "id": 131,
+      "location": {
+        "lat": 50.119462,
+        "lng": 14.499146
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "OD BILLA Prosek",
+      "address": "Vysočanská 382/20",
+      "city": "Praha 9",
+      "postCode": "19000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "131",
+      "cityPart": "Prosek",
+      "installDate": "1993-01-01T00:00+01:00"
+    },
+    {
+      "id": 359,
+      "location": {
+        "lat": 50.087038,
+        "lng": 14.563794
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "ALBERT Supermarket",
+      "address": "Českobrodská 733",
+      "city": "Praha 9",
+      "postCode": "19800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "359",
+      "cityPart": "Hostavice",
+      "installDate": "2011-05-27T00:00+02:00"
+    },
+    {
+      "id": 379,
+      "location": {
+        "lat": 50.112126,
+        "lng": 14.617392
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "ALBERT Supermarket (Trio)",
+      "address": "Chodovická 2311/30",
+      "city": "Praha 9 - Horní Počernice",
+      "postCode": "19300",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "379",
+      "cityPart": "Horní Počernice",
+      "installDate": "2013-09-25T00:00+02:00"
+    },
+    {
+      "id": 470,
+      "location": {
+        "lat": 50.116678,
+        "lng": 14.619555
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Náchodská 440/153",
+      "city": "Praha 9 - Horní Počernice",
+      "postCode": "19300",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "470",
+      "cityPart": "Horní Počernice",
+      "installDate": "2023-07-11T00:00+02:00"
+    },
+    {
+      "id": 203,
+      "location": {
+        "lat": 50.116661,
+        "lng": 14.619474
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Náchodská 440/153",
+      "city": "Praha 9 - Horní Počernice",
+      "postCode": "19300",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "203",
+      "cityPart": "Horní Počernice",
+      "installDate": "1995-08-01T00:00+02:00"
+    },
+    {
+      "id": 337,
+      "location": {
+        "lat": 50.092752,
+        "lng": 14.499624
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "KAUFLAND",
+      "address": "V třešňovce 232/2",
+      "city": "Praha 9 - Hrdlořezy",
+      "postCode": "19000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-22:00",
+      "atmNumber": "337",
+      "cityPart": "Hrdlořezy",
+      "installDate": "2009-07-15T00:00+02:00"
+    },
+    {
+      "id": 250,
+      "location": {
+        "lat": 50.135629,
+        "lng": 14.553015
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Prodejna",
+      "address": "Katusická 667/3",
+      "city": "Praha 9 - Kbely",
+      "postCode": "19700",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "250",
+      "cityPart": "Kbely",
+      "installDate": "1997-07-01T00:00+02:00"
+    },
+    {
+      "id": 153,
+      "location": {
+        "lat": 50.134939,
+        "lng": 14.514211
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Letov a.s.",
+      "address": "Beranových 65",
+      "city": "Praha 9 - Letňany",
+      "postCode": "19900",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "153",
+      "cityPart": "Letňany",
+      "installDate": "1993-01-01T00:00+01:00"
+    },
+    {
+      "id": 322,
+      "location": {
+        "lat": 50.129469,
+        "lng": 14.51444
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "PVA EXPO Praha",
+      "address": "Beranových 667",
+      "city": "Praha 9 - Letňany",
+      "postCode": "19900",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "322",
+      "cityPart": "Letňany",
+      "installDate": "2016-05-04T00:00+02:00"
+    },
+    {
+      "id": 442,
+      "location": {
+        "lat": 50.129859,
+        "lng": 14.516714
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "PVA EXPO Praha (vstupní hala 2)",
+      "address": "Beranových 753",
+      "city": "Praha 9 - Letňany",
+      "postCode": "19900",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "442",
+      "cityPart": "Letňany",
+      "installDate": "2018-08-10T00:00+02:00"
+    },
+    {
+      "id": 333,
+      "location": {
+        "lat": 50.125673,
+        "lng": 14.51564
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Letňany (C)",
+      "address": "Prosecká 342/145",
+      "city": "Praha 9 - Letňany",
+      "postCode": "19000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "333",
+      "cityPart": "Prosek",
+      "installDate": "2009-06-25T00:00+02:00"
+    },
+    {
+      "id": 297,
+      "location": {
+        "lat": 50.135454,
+        "lng": 14.502172
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s. (OC Letňany)",
+      "address": "Veselská 663",
+      "city": "Praha 9 - Letňany",
+      "postCode": "19900",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "297",
+      "cityPart": "Letňany",
+      "installDate": "2002-10-01T00:00+02:00"
+    },
+    {
+      "id": 160,
+      "location": {
+        "lat": 50.13547,
+        "lng": 14.502155
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "OC Letňany (TESCO)",
+      "address": "Veselská 663",
+      "city": "Praha 9 - Letňany",
+      "postCode": "19900",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "160",
+      "cityPart": "Letňany",
+      "installDate": "2005-03-31T00:00+02:00"
+    },
+    {
+      "id": 9043,
+      "location": {
+        "lat": 50.135454,
+        "lng": 14.502172
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s. (OC Letňany)",
+      "address": "Veselská 663",
+      "city": "Praha 9 - Letňany",
+      "postCode": "19900",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "9043",
+      "cityPart": "Letňany",
+      "installDate": "2011-04-15T00:00+02:00"
+    },
+    {
+      "id": 415,
+      "location": {
+        "lat": 50.135048,
+        "lng": 14.50127
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s. (OC Letňany)",
+      "address": "Veselská 663",
+      "city": "Praha 9 - Letňany",
+      "postCode": "19900",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "415",
+      "cityPart": "Letňany",
+      "installDate": "2017-05-03T00:00+02:00"
+    },
+    {
+      "id": 358,
+      "location": {
+        "lat": 50.103658,
+        "lng": 14.49041
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Česká spořitelna, a.s. (OC Galerie Harfa)",
+      "address": "Českomoravská 2420/15a",
+      "city": "Praha 9 - Libeň",
+      "postCode": "19000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 09:00-21:00",
+      "atmNumber": "358",
+      "cityPart": "Libeň",
+      "installDate": "2010-11-09T00:00+01:00"
+    },
+    {
+      "id": 463,
+      "location": {
+        "lat": 50.103658,
+        "lng": 14.49041
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Česká spořitelna, a.s. (OC Galerie Harfa)",
+      "address": "Českomoravská 2420/15a",
+      "city": "Praha 9 - Libeň",
+      "postCode": "19000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 09:00-21:00",
+      "atmNumber": "463",
+      "cityPart": "Libeň",
+      "installDate": "2022-10-27T00:00+02:00"
+    },
+    {
+      "id": 276,
+      "location": {
+        "lat": 50.143415,
+        "lng": 14.579254
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Obchod",
+      "address": "Živanická 235",
+      "city": "Praha 9 - Vinoř",
+      "postCode": "19017",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "276",
+      "cityPart": "Vinoř",
+      "installDate": "2007-09-12T00:00+02:00"
+    },
+    {
+      "id": 409,
+      "location": {
+        "lat": 50.123099,
+        "lng": 14.510611
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "LIDL",
+      "address": "Kbelská 919/31",
+      "city": "Praha 9 - Vysočany",
+      "postCode": "19000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "409",
+      "cityPart": "Vysočany",
+      "installDate": "2017-06-01T00:00+02:00"
+    },
+    {
+      "id": 471,
+      "location": {
+        "lat": 50.112125,
+        "lng": 14.497444
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Železniční stanice Praha-Vysočany",
+      "address": "Paříkova 100/13",
+      "city": "Praha 9 - Vysočany",
+      "postCode": "19000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "471",
+      "cityPart": "Vysočany",
+      "installDate": "2023-12-08T00:00+01:00"
+    },
+    {
+      "id": 268,
+      "location": {
+        "lat": 50.11031,
+        "lng": 14.501781
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Vysočanská (B)",
+      "address": "Sokolovská 14/324",
+      "city": "Praha 9 - Vysočany",
+      "postCode": "19000",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "268",
+      "cityPart": "Vysočany",
+      "installDate": "1998-11-01T00:00+01:00"
+    },
+    {
+      "id": 248,
+      "location": {
+        "lat": 50.075794,
+        "lng": 14.661197
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Novosibřinská 588",
+      "city": "Praha 9 - Újezd nad Lesy",
+      "postCode": "19016",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "248",
+      "cityPart": "Újezd nad Lesy",
+      "installDate": "1997-06-01T00:00+02:00"
+    },
+    {
+      "id": 438,
+      "location": {
+        "lat": 50.075838,
+        "lng": 14.661075
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Novosibřinská 588",
+      "city": "Praha 9 - Újezd nad Lesy",
+      "postCode": "19016",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "438",
+      "cityPart": "Újezd nad Lesy",
+      "installDate": "2018-11-22T00:00+01:00"
+    },
+    {
+      "id": 9167,
+      "location": {
+        "lat": 50.075794,
+        "lng": 14.661197
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Česká spořitelna, a.s.",
+      "address": "Novosibřinská 588",
+      "city": "Praha 9 - Újezd nad Lesy",
+      "postCode": "19016",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "9167",
+      "cityPart": "Újezd nad Lesy",
+      "installDate": "2015-12-11T00:00+01:00"
+    },
+    {
+      "id": 241,
+      "location": {
+        "lat": 50.151543,
+        "lng": 14.525178
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "Budova úřadu městské části",
+      "address": "Cukrovarská 52/24",
+      "city": "Praha 9 - Čakovice",
+      "postCode": "19600",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "241",
+      "cityPart": "Čakovice",
+      "installDate": "1997-04-01T00:00+02:00"
+    },
+    {
+      "id": 275,
+      "location": {
+        "lat": 50.151261,
+        "lng": 14.507133
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "GLOBUS",
+      "address": "Kostelecká 823/77",
+      "city": "Praha 9 - Čakovice",
+      "postCode": "19600",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-21:00",
+      "atmNumber": "275",
+      "cityPart": "Čakovice",
+      "installDate": "2000-05-01T00:00+02:00"
+    },
+    {
+      "id": 190,
+      "location": {
+        "lat": 50.151261,
+        "lng": 14.507133
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Česká spořitelna, a.s. (GLOBUS)",
+      "address": "Kostelecká 823/77",
+      "city": "Praha 9 - Čakovice",
+      "postCode": "19600",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-21:00",
+      "atmNumber": "190",
+      "cityPart": "Čakovice",
+      "installDate": "2009-05-27T00:00+02:00"
+    },
+    {
+      "id": 421,
+      "location": {
+        "lat": 50.151112,
+        "lng": 14.50482
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Česká spořitelna, a.s. (GLOBUS)",
+      "address": "Kostelecká 823/77",
+      "city": "Praha 9 - Čakovice",
+      "postCode": "19600",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-21:00",
+      "atmNumber": "421",
+      "cityPart": "Čakovice",
+      "installDate": "2017-09-18T00:00+02:00"
+    },
+    {
+      "id": 9003,
+      "location": {
+        "lat": 50.151112,
+        "lng": 14.50482
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "Česká spořitelna, a.s. (GLOBUS)",
+      "address": "Kostelecká 823/77",
+      "city": "Praha 9 - Čakovice",
+      "postCode": "19600",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-21:00",
+      "atmNumber": "9003",
+      "cityPart": "Čakovice",
+      "installDate": "2010-02-11T00:00+01:00"
+    },
+    {
+      "id": 269,
+      "location": {
+        "lat": 50.1091,
+        "lng": 14.577481
+      },
+      "type": "ATM",
+      "state": "OPEN",
+      "name": "METRO Černý Most (B)",
+      "address": "Bryksova 817/50",
+      "city": "Praha 9 - Černý Most",
+      "postCode": "19800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "nepřetržitě",
+      "atmNumber": "269",
+      "cityPart": "Černý Most",
+      "installDate": "1998-11-01T00:00+01:00"
+    },
+    {
+      "id": 274,
+      "location": {
+        "lat": 50.111533,
+        "lng": 14.581666
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "HORNBACH",
+      "address": "Chlumecká 2398",
+      "city": "Praha 9 - Černý Most",
+      "postCode": "19800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "v provozní době",
+      "atmNumber": "274",
+      "cityPart": "Horní Počernice",
+      "installDate": "2006-07-14T00:00+02:00"
+    },
+    {
+      "id": 311,
+      "location": {
+        "lat": 50.104605,
+        "lng": 14.586807
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "IKEA Černý Most",
+      "address": "Chlumecká 664/10",
+      "city": "Praha 9 - Černý Most",
+      "postCode": "19800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 10:00-20:00",
+      "atmNumber": "311",
+      "cityPart": "Černý Most",
+      "installDate": "2004-12-01T00:00+01:00"
+    },
+    {
+      "id": 264,
+      "location": {
+        "lat": 50.108166,
+        "lng": 14.586029
+      },
+      "type": "ATM",
+      "state": "CLOSED",
+      "name": "GLOBUS CČM",
+      "address": "Chlumecká 765/6",
+      "city": "Praha 9 - Černý Most",
+      "postCode": "19800",
+      "country": "CZ",
+      "region": "Hlavní město Praha",
+      "bankCode": "0800",
+      "accessType": "denně 07:00-21:00",
+      "atmNumber": "264",
+      "cityPart": "Černý Most",
+      "installDate": "1997-11-01T00:00+01:00"
+    }
+  ]
+}

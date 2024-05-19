@@ -7,7 +7,6 @@ import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpMethod;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Component;
-import org.springframework.web.client.HttpServerErrorException;
 import org.springframework.web.client.RestTemplate;
 import org.springframework.web.util.UriComponentsBuilder;
 
@@ -30,7 +29,8 @@ public class AtmApiInterfaceImpl implements AtmApiInterface {
         HttpHeaders headers = new HttpHeaders();
         headers.set("WEB-API-key", apiKey);
 
-        URI url = UriComponentsBuilder.fromHttpUrl(apiUrl)
+        URI url = UriComponentsBuilder
+                .fromHttpUrl(apiUrl)
                 .queryParam("types", "ATM")
                 .build()
                 .toUri();
