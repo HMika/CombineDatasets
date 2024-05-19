@@ -59,7 +59,7 @@ class WeatherApiInterfaceImplTest {
                 .queryParam("units", "metric")
                 .queryParam("appid", apiKey);
 
-        File jsonFile = new File(Objects.requireNonNull(getClass().getClassLoader().getResource("WeatherApiResponse.json")).getFile());
+        File jsonFile = new File(Objects.requireNonNull(getClass().getClassLoader().getResource("weather_response.json")).getFile());
 
         ObjectMapper objectMapper = new ObjectMapper();
         WeatherResponse mockResponse = objectMapper.readValue(jsonFile, WeatherResponse.class);
